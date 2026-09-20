@@ -68,7 +68,7 @@
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/OttSource.cs3",
         "status": 1,
-        "version": 5,
+        "version": 6,
         "name": "OttSource",
         "internalName": "OttSource",
         "authors": [
@@ -82,9 +82,9 @@
             "Movie",
             "TvSeries"
         ],
-        "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/CNC%20Verse/icon.png",
+        "iconUrl": " ",
         "apiVersion": 1,
-        "fileHash": "sha256-16625a94af697c01981a55e008677c8e44c4595109a174e726752d708de537c4"
+        "fileHash": "sha256-062240f6994e983f6492d0411ca53cc124398767e9f4ae28a1f4165ecc67fcdf"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/SDmovies.cs3",
