@@ -75,7 +75,7 @@
             "Faisal"
         ],
         "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
-        "fileSize": 64790,
+        "fileSize": 82014,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -84,7 +84,7 @@
         ],
         "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/CNC%20Verse/icon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-8764cba18efd50984c9f5773e96b40098bdab612d53e149f1c0a1e59f8b2d0e2"
+        "fileHash": "sha256-61b21962c853622af73d90bdb73882fd5fa70cb9bd75a943e010c7c6aaff7040"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/SDmovies.cs3",
