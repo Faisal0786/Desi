@@ -68,14 +68,14 @@
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/OttSource.cs3",
         "status": 1,
-        "version": 6,
+        "version": 7,
         "name": "OttSource",
         "internalName": "OttSource",
         "authors": [
             "Faisal"
         ],
         "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
-        "fileSize": 81987,
+        "fileSize": 83810,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -84,7 +84,7 @@
         ],
         "iconUrl": " ",
         "apiVersion": 1,
-        "fileHash": "sha256-062240f6994e983f6492d0411ca53cc124398767e9f4ae28a1f4165ecc67fcdf"
+        "fileHash": "sha256-056141128b2f8c5a36500639a34cd53936bcd9a5e56d801fde50e76d91f9b66f"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/SDmovies.cs3",
