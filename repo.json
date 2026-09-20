@@ -1,0 +1,8 @@
+{
+  "name": "Desi Extensions",
+  "description": "Multi-Language Providers (OttSource, NetMirror)",
+  "repositoryUrl": "https://github.com/Faisal0786/Desi",
+  "pluginLists": [
+    "https://raw.githubusercontent.com/Faisal0786/Desi/builds/plugins.json"
+  ]
+}
