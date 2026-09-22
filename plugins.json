@@ -75,7 +75,7 @@
             "Faisal"
         ],
         "description": "MovieBox Native - Pure API Provider with Crypto Bypass",
-        "fileSize": 64010,
+        "fileSize": 65198,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -85,7 +85,7 @@
         ],
         "iconUrl": "https://www.google.com/s2/favicons?sz=128&domain=movieboxpro.app",
         "apiVersion": 1,
-        "fileHash": "sha256-d5153df47eddd743c5a30d9f172d2517954b01f6309e2f305738b11a91d2c6a5"
+        "fileHash": "sha256-7438254bec80bccede5701cacbdaa594e0b69f4d0f12ec53f0a5a83d17a50a80"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/OttSource.cs3",
