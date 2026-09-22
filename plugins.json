@@ -21,6 +21,28 @@
         "fileHash": "sha256-22bf1e1c6ac3e027569a731201d06846affae653324e4893e9a504125f2d4595"
     },
     {
+        "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/cinemacity.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "cinemacity",
+        "internalName": "cinemacity",
+        "authors": [
+            "Faisal"
+        ],
+        "description": "CinemaCity Provider",
+        "fileSize": 19887,
+        "repositoryUrl": "https://github.com/Faisal0786/Desi",
+        "language": "hi",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "iconUrl": "",
+        "apiVersion": 1,
+        "fileHash": "sha256-85e72819f673fc3fd5263eaf4c4805197111beb867bba1e949a3c3c946aab59f"
+    },
+    {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/Ctg Stream.cs3",
         "status": 1,
         "version": 2,
