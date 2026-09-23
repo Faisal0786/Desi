@@ -135,14 +135,14 @@
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/StreamHubOne.cs3",
         "status": 1,
-        "version": 56,
+        "version": 57,
         "name": "StreamHubOne",
         "internalName": "StreamHubOne",
         "authors": [
             "Faisal"
         ],
         "description": "StreamHub One - Multilingual provider",
-        "fileSize": 900631,
+        "fileSize": 906838,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -154,7 +154,7 @@
         ],
         "iconUrl": "",
         "apiVersion": 1,
-        "fileHash": "sha256-3147f56378833c60acd75ea53a125a8cd515293d1027171b73731ad0a30e2aad"
+        "fileHash": "sha256-b281b3c18ac38ddd02457e409f05d2b19dde5b4467dd5fc17a34d6790c984e81"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/The Movie Flix.cs3",
