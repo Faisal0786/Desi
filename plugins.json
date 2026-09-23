@@ -142,7 +142,7 @@
             "Faisal"
         ],
         "description": "StreamHub One - Multilingual provider",
-        "fileSize": 897757,
+        "fileSize": 897761,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -154,7 +154,7 @@
         ],
         "iconUrl": "",
         "apiVersion": 1,
-        "fileHash": "sha256-8aec5a5935ba5e9aaa96ef9a35f70d9f99a6be556df491ea29dbc344c8c2ac94"
+        "fileHash": "sha256-6391d3afb3d686431b7fb81657d32f6ffd3d3ce50cbbc78c3bb02e61bc9f3a5a"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/The Movie Flix.cs3",
@@ -166,7 +166,7 @@
             "Faisal"
         ],
         "description": "TheMoviesFlix provider for Dual Audio, Bollywood and Hollywood Movies and TV Shows",
-        "fileSize": 47816,
+        "fileSize": 47818,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -176,6 +176,6 @@
         ],
         "iconUrl": "https://moviesflixi.com/favicon.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-e7fb2f38dca1778b5cce4609b08bccd78f6cbabcfcd3e5cfc6610f2b198ddd72"
+        "fileHash": "sha256-5f66abb9be37ad275b70b1f4befa61d7b14e310920e407b311f0314cd7bcbc93"
     }
 ]
