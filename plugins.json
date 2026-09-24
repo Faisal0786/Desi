@@ -166,7 +166,7 @@
             "Faisal"
         ],
         "description": "TheMoviesFlix provider for Dual Audio, Bollywood and Hollywood Movies and TV Shows",
-        "fileSize": 47818,
+        "fileSize": 43673,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -176,6 +176,6 @@
         ],
         "iconUrl": "https://moviesflixi.com/favicon.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-5f66abb9be37ad275b70b1f4befa61d7b14e310920e407b311f0314cd7bcbc93"
+        "fileHash": "sha256-45c9abac04e2ea8dbabaa383de241381fb0f0d2070948a6640f2d3231b7ed65b"
     }
 ]
