@@ -137,14 +137,14 @@
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/The Movie Flix.cs3",
         "status": 1,
-        "version": 2,
+        "version": 25,
         "name": "The Movie Flix",
         "internalName": "The Movie Flix",
         "authors": [
             "Faisal"
         ],
         "description": "TheMoviesFlix provider for Dual Audio, Bollywood and Hollywood Movies and TV Shows",
-        "fileSize": 55149,
+        "fileSize": 55151,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -154,7 +154,7 @@
         ],
         "iconUrl": "https://moviesflixi.com/favicon.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-0a54c3db6cd7802bbf1c3a097a8c56fdf71e1e6033988387523cb222106ae57c"
+        "fileHash": "sha256-81888501102107a0b39d465f155f431ab67d0c2b16a52a25ab29b88b4dd3754e"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/vegamovies.cs3",
