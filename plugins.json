@@ -120,7 +120,7 @@
             "Faisal"
         ],
         "description": "StreamHub One - Multilingual provider",
-        "fileSize": 904804,
+        "fileSize": 911602,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -132,7 +132,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/images%20(1).jpeg",
         "apiVersion": 1,
-        "fileHash": "sha256-6c9a79a027667308090f7618e2213ff387bd874a6b7d98e322cfab310b218140"
+        "fileHash": "sha256-a3247d1644c7633b90cbec7f76a3e40c709e29e0756f2cea8631d35cb4901b9b"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/The Movie Flix.cs3",
