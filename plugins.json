@@ -30,7 +30,7 @@
             "Faisal"
         ],
         "description": "Anizone- Multi Language Anime Provider",
-        "fileSize": 17686,
+        "fileSize": 24344,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "en",
         "tvTypes": [
@@ -40,7 +40,7 @@
         ],
         "iconUrl": "",
         "apiVersion": 1,
-        "fileHash": "sha256-2a0b86e30ad8f6b071917d7e4a22605a92f99bf9ff1d7fecb89c4bfd80972a1b"
+        "fileHash": "sha256-5c62040c6379410e82822e9e406c2852a298e88f4505a45ace48dd35ee13fd5d"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/Ctg Stream.cs3",
