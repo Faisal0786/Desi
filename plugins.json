@@ -61,7 +61,7 @@
             "TvSeries",
             "Anime"
         ],
-        "iconUrl": "https://www.google.com/s2/favicons?sz=128&domain=movieboxpro.app",
+        "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/IMG-20260920-WA0000.jpg",
         "apiVersion": 1,
         "fileHash": "sha256-a570acf5175f25b719c21c0119b48a9d694dd53d01f4256172070d171e938b79"
     },
@@ -82,7 +82,7 @@
             "Movie",
             "TvSeries"
         ],
-        "iconUrl": " ",
+        "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/2504929.png",
         "apiVersion": 1,
         "fileHash": "sha256-056141128b2f8c5a36500639a34cd53936bcd9a5e56d801fde50e76d91f9b66f"
     },
@@ -106,7 +106,7 @@
             "Anime",
             "Torrent"
         ],
-        "iconUrl": "https://sdmoviespoint.cyou/favicon.ico",
+        "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/3a33c253fe5e25b4d61a6a8eb78da2a1.webp",
         "apiVersion": 1,
         "fileHash": "sha256-f44e4429934eb9fbc38fcb59949bc591f0d0914963eba5f94d28375cc1399747"
     },
@@ -130,7 +130,7 @@
             "AnimeMovie",
             "AsianDrama"
         ],
-        "iconUrl": "",
+        "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/images%20(1).jpeg",
         "apiVersion": 1,
         "fileHash": "sha256-6c9a79a027667308090f7618e2213ff387bd874a6b7d98e322cfab310b218140"
     },
@@ -165,7 +165,7 @@
         "authors": [
             "Faisal"
         ],
-        "description": "TheMoviesFlix provider for Dual Audio, Bollywood and Hollywood Movies and TV Shows",
+        "description": "VegaMovies Provider for Dual Audio, Bollywood and Hollywood Movies and TV Shows",
         "fileSize": 41553,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
@@ -174,7 +174,7 @@
             "Movie",
             "Anime"
         ],
-        "iconUrl": " ",
+        "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/images%20(2).jpeg",
         "apiVersion": 1,
         "fileHash": "sha256-f9d97e2d2ec56971522d4a959e2a115c00b03ad669e8e403fddff07e88cd3ca3"
     }
