@@ -159,7 +159,7 @@
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/The Movie Flix.cs3",
         "status": 1,
-        "version": 25,
+        "version": 26,
         "name": "The Movie Flix",
         "internalName": "The Movie Flix",
         "authors": [
@@ -176,7 +176,7 @@
         ],
         "iconUrl": "https://moviesflixi.com/favicon.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-0cbddcc1ea70787013653595442b210e82f216877c26b91e355fe60bd016b83a"
+        "fileHash": "sha256-f287f443e14920a250e77516e7bd7bd76cea7c77b3b1812bc1f482d3fa5f3507"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/UhdMovies.cs3",
