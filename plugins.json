@@ -30,7 +30,7 @@
             "Faisal"
         ],
         "description": "Anizone- Multi Language Anime Provider",
-        "fileSize": 24345,
+        "fileSize": 33404,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "en",
         "tvTypes": [
@@ -40,7 +40,7 @@
         ],
         "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://anizone.to&size=256",
         "apiVersion": 1,
-        "fileHash": "sha256-edb86c8e89bbd82adbae06470a8c3e966f94d497a679277d959756a6aa2ad73f"
+        "fileHash": "sha256-33484614bec52df3e8b577400098b2e6e313c1b520bebd87f5bf50000043ec05"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/Ctg Stream.cs3",
@@ -142,7 +142,7 @@
             "Faisal"
         ],
         "description": "StreamHub One - Multilingual provider",
-        "fileSize": 913197,
+        "fileSize": 913947,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -154,7 +154,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/images%20(1).jpeg",
         "apiVersion": 1,
-        "fileHash": "sha256-da99c5a8dffa952d7c6c4301ff78c242e026a87c145168803fe29c6489569f87"
+        "fileHash": "sha256-c5c151544826ada250f2c8470ed90451c03370d223585185427326c2f44d51bd"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/The Movie Flix.cs3",
