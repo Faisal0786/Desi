@@ -135,14 +135,14 @@
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/StreamHubOne.cs3",
         "status": 1,
-        "version": 59,
+        "version": 60,
         "name": "StreamHubOne",
         "internalName": "StreamHubOne",
         "authors": [
             "Faisal"
         ],
         "description": "StreamHub One - Multilingual provider",
-        "fileSize": 913389,
+        "fileSize": 908366,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -154,7 +154,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/images%20(1).jpeg",
         "apiVersion": 1,
-        "fileHash": "sha256-19866728b70d07941b45f861239374ed77a1fadae4e354a5458270d1111a5417"
+        "fileHash": "sha256-18eea0cff55f7e3ce72d28703b7880baf73e8480d84841974216c0b7a89415e8"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/The Movie Flix.cs3",
@@ -181,14 +181,14 @@
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/vegamovies.cs3",
         "status": 1,
-        "version": 36,
+        "version": 37,
         "name": "vegamovies",
         "internalName": "vegamovies",
         "authors": [
             "Faisal"
         ],
         "description": "VegaMovies Provider for Dual Audio, Bollywood and Hollywood Movies and TV Shows",
-        "fileSize": 52459,
+        "fileSize": 52754,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -198,6 +198,6 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/images%20(2).jpeg",
         "apiVersion": 1,
-        "fileHash": "sha256-6525fb28a35ed59283364a62cd2cf665b989af9a031cdba6491a5aa8cda31d52"
+        "fileHash": "sha256-f292123284d752ddffd75f3e243d7c4e5eda79d487f797fc50b8391cc5e08ef1"
     }
 ]
