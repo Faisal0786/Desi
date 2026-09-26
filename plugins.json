@@ -188,7 +188,7 @@
             "Faisal"
         ],
         "description": "UHD MOVIES - PROVIDE 4K CONTENT IN MULTI LANGUAGE",
-        "fileSize": 22173,
+        "fileSize": 23631,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -198,7 +198,7 @@
         ],
         "iconUrl": "",
         "apiVersion": 1,
-        "fileHash": "sha256-d04e56a4a824de573dcb570dc1808aac5fbf7e29913ae805379a613da4cbd739"
+        "fileHash": "sha256-d893b31624c755f6056418cbea6c5e311eaa3c5681f7c3374ba6753fcef72376"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/vegamovies.cs3",
