@@ -179,28 +179,6 @@
         "fileHash": "sha256-f287f443e14920a250e77516e7bd7bd76cea7c77b3b1812bc1f482d3fa5f3507"
     },
     {
-        "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/UhdMovies.cs3",
-        "status": 1,
-        "version": 3,
-        "name": "UhdMovies",
-        "internalName": "UhdMovies",
-        "authors": [
-            "Faisal"
-        ],
-        "description": "UHD MOVIES - PROVIDE 4K CONTENT IN MULTI LANGUAGE",
-        "fileSize": 29089,
-        "repositoryUrl": "https://github.com/Faisal0786/Desi",
-        "language": "hi",
-        "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "Anime"
-        ],
-        "iconUrl": "",
-        "apiVersion": 1,
-        "fileHash": "sha256-d227fbbc884d958b6d92ff65e0b7bd708da51122a2d9a4da7d5a223c3888772a"
-    },
-    {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/vegamovies.cs3",
         "status": 1,
         "version": 36,
