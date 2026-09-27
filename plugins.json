@@ -9,7 +9,7 @@
             "Faisal"
         ],
         "description": "Watch anime in HD with English Sub and Dub from AniStream",
-        "fileSize": 43882,
+        "fileSize": 42482,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "en",
         "tvTypes": [
@@ -18,7 +18,7 @@
         ],
         "iconUrl": "https://anistream.one/og.png",
         "apiVersion": 1,
-        "fileHash": "sha256-9eacb50406dd68437e2645d1ee51e6844938245e057b5866db6bce9a241c6a2e"
+        "fileHash": "sha256-1dfb001393e7b3de29622ce9b05131eaa50cfe6878cb9ae211a357b74a3a3631"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/Anizone.cs3",
@@ -52,7 +52,7 @@
             "Faisal"
         ],
         "description": "multi Language Provider",
-        "fileSize": 35066,
+        "fileSize": 33864,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "tvTypes": [
             "TvSeries",
@@ -63,7 +63,7 @@
         ],
         "iconUrl": " ",
         "apiVersion": 1,
-        "fileHash": "sha256-786fb91a1f1a6281b1ea1a12e54cea1c644a53269aca2eca1eb9ffee40813e02"
+        "fileHash": "sha256-105d96a31185a85f9e5f0f519db1b29ea616e2d6b25c8cdf419b270bb74b22cb"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/MovieBox.cs3",
@@ -75,7 +75,7 @@
             "Faisal"
         ],
         "description": "MovieBox Native - Pure API Provider with Crypto Bypass",
-        "fileSize": 78295,
+        "fileSize": 77034,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -85,7 +85,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/IMG-20260920-WA0000.jpg",
         "apiVersion": 1,
-        "fileHash": "sha256-4a3469102b14c5544c6117982c70134961ea4336ec10c146b52114778d5d41a0"
+        "fileHash": "sha256-411bb7ca726ffbe92718310fae0ec4055bd797eee7fe74b5ea8c226712d8d7f2"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/OttSource.cs3",
@@ -97,7 +97,7 @@
             "Faisal"
         ],
         "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
-        "fileSize": 96418,
+        "fileSize": 95423,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -106,7 +106,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/2504929.png",
         "apiVersion": 1,
-        "fileHash": "sha256-19c80760e4a1a7bf56569f3fd3de0c1b7d920b4b33f1811c32aee73cc33c2f38"
+        "fileHash": "sha256-7d18ac937411570b2d3016df2a28d91a64a2950864ea40fee61032f05dfd09bf"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/SDmovies.cs3",
@@ -118,7 +118,7 @@
             "Faisal"
         ],
         "description": "Multi language Movies and Tv shows provider",
-        "fileSize": 36753,
+        "fileSize": 35571,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -130,7 +130,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/3a33c253fe5e25b4d61a6a8eb78da2a1.webp",
         "apiVersion": 1,
-        "fileHash": "sha256-c01837522b09e3e5a46b105933fe00454529a3fab2835ede90933201e68e8ef6"
+        "fileHash": "sha256-cd791059c991cfa77ebaab86d581456a9ec3ae8855cc72768b3884f5534e310c"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/StreamHubOne.cs3",
@@ -142,7 +142,7 @@
             "Faisal"
         ],
         "description": "StreamHub One - Multilingual provider",
-        "fileSize": 956162,
+        "fileSize": 955259,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -154,7 +154,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/images%20(1).jpeg",
         "apiVersion": 1,
-        "fileHash": "sha256-ccb963a19d8d66c50dc2e6d8cecdd4b8b7dea62e7f6c557a1e97ad088992e6af"
+        "fileHash": "sha256-f6dc480ba11d27536fb93c496c8707703e6eb606319438c6b1ba25a223d736df"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/The Movie Flix.cs3",
@@ -166,7 +166,7 @@
             "Faisal"
         ],
         "description": "TheMoviesFlix provider for Dual Audio, Bollywood and Hollywood Movies and TV Shows",
-        "fileSize": 58128,
+        "fileSize": 56992,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -176,7 +176,7 @@
         ],
         "iconUrl": "https://moviesflixi.com/favicon.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-c34efc02c00eb0df0e7fd3d8193c0badefd25fc76427fa404c7da41c0bc2f2c1"
+        "fileHash": "sha256-c473160b23e333dd10e92f3cb5bbb1a7322bfe993a4bc7692ff0904018c30260"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/vegamovies.cs3",
@@ -188,7 +188,7 @@
             "Faisal"
         ],
         "description": "VegaMovies Provider for Dual Audio, Bollywood and Hollywood Movies and TV Shows",
-        "fileSize": 55259,
+        "fileSize": 53925,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -198,6 +198,6 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/images%20(2).jpeg",
         "apiVersion": 1,
-        "fileHash": "sha256-00a64f3048562a22c601af9d2cd9ed9cf59dd1d159b88788b84a7feabee4efa2"
+        "fileHash": "sha256-d37417c4b4cc3f6e94e8e2d76c5aa41399f4e3e1651c10a58653fce1baeee417"
     }
 ]
