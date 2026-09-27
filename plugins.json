@@ -179,28 +179,6 @@
         "fileHash": "sha256-c473160b23e333dd10e92f3cb5bbb1a7322bfe993a4bc7692ff0904018c30260"
     },
     {
-        "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/ToonWorldForAll.cs3",
-        "status": 1,
-        "version": 11,
-        "name": "ToonWorldForAll",
-        "internalName": "ToonWorldForAll",
-        "authors": [
-            "Faisal"
-        ],
-        "description": "MovieBox Native - Pure API Provider with Crypto Bypass",
-        "fileSize": 50370,
-        "repositoryUrl": "https://github.com/Faisal0786/Desi",
-        "language": "hi",
-        "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "Anime"
-        ],
-        "iconUrl": "",
-        "apiVersion": 1,
-        "fileHash": "sha256-043cd6566faca59980c9d6f12a81097a7a913628108d6753ef6b6d97d063696c"
-    },
-    {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/vegamovies.cs3",
         "status": 1,
         "version": 37,
