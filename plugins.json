@@ -188,7 +188,7 @@
             "Faisal"
         ],
         "description": "MovieBox Native - Pure API Provider with Crypto Bypass",
-        "fileSize": 50889,
+        "fileSize": 50370,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -198,7 +198,7 @@
         ],
         "iconUrl": "",
         "apiVersion": 1,
-        "fileHash": "sha256-f890f82c69135aee1844a270943dffa075f757e73ee6e6abd22648d0faf6a77b"
+        "fileHash": "sha256-043cd6566faca59980c9d6f12a81097a7a913628108d6753ef6b6d97d063696c"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/vegamovies.cs3",
