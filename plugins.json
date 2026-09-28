@@ -166,7 +166,7 @@
             "Toon"
         ],
         "description": "TamilTvToons provider for Hindi-dubbed & Tamil Movies & TV shows, Anime and Asian dramas",
-        "fileSize": 43253,
+        "fileSize": 42600,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -176,7 +176,7 @@
             "AsianDrama"
         ],
         "apiVersion": 1,
-        "fileHash": "sha256-27ef07744a782e46f818a462d92c3e9e18b4e9f52000c1ced04349fcd2533df6"
+        "fileHash": "sha256-e395fe7dbdb4359bd47245cd07bed3f295f10303ad99ac083d8b3cefedb3de25"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/The Movie Flix.cs3",
