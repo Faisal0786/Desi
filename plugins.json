@@ -159,14 +159,14 @@
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/TamilToon.cs3",
         "status": 1,
-        "version": 3,
+        "version": 4,
         "name": "TamilToon",
         "internalName": "TamilToon",
         "authors": [
             "Toon"
         ],
         "description": "TamilTvToons provider for Hindi-dubbed & Tamil Movies & TV shows, Anime and Asian dramas",
-        "fileSize": 42600,
+        "fileSize": 42539,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -176,7 +176,7 @@
             "AsianDrama"
         ],
         "apiVersion": 1,
-        "fileHash": "sha256-e395fe7dbdb4359bd47245cd07bed3f295f10303ad99ac083d8b3cefedb3de25"
+        "fileHash": "sha256-6d6c4b10572aebe488559314db757975a80af2ed52f8ad021100c58ba1a78d7d"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/The Movie Flix.cs3",
