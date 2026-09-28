@@ -157,6 +157,28 @@
         "fileHash": "sha256-f6dc480ba11d27536fb93c496c8707703e6eb606319438c6b1ba25a223d736df"
     },
     {
+        "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/TamilToon.cs3",
+        "status": 1,
+        "version": 2,
+        "name": "TamilToon",
+        "internalName": "TamilToon",
+        "authors": [
+            "Toon"
+        ],
+        "description": "TamilTvToons provider for Hindi-dubbed movies, TV shows, anime and Asian dramas",
+        "fileSize": 30669,
+        "repositoryUrl": "https://github.com/Faisal0786/Desi",
+        "language": "hi",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "AsianDrama"
+        ],
+        "apiVersion": 1,
+        "fileHash": "sha256-da5b335e91f26517477139c60fc5f8c3dc1acd5d1035903815ce687dd2ad4719"
+    },
+    {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/The Movie Flix.cs3",
         "status": 1,
         "version": 26,
@@ -188,7 +210,7 @@
             "Faisal"
         ],
         "description": "VegaMovies Provider for Dual Audio, Bollywood and Hollywood Movies and TV Shows",
-        "fileSize": 54050,
+        "fileSize": 85841,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -198,6 +220,6 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/images%20(2).jpeg",
         "apiVersion": 1,
-        "fileHash": "sha256-4dd4e9534d8c0dcee67ec485b10e11353347795a4b67bb879974fcc5e901e210"
+        "fileHash": "sha256-96bc15da4b8a2b198ca9e77c3398b4ff2257ba61c78fc0c39272ec4130f18c4b"
     }
 ]
