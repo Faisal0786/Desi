@@ -66,28 +66,6 @@
         "fileHash": "sha256-105d96a31185a85f9e5f0f519db1b29ea616e2d6b25c8cdf419b270bb74b22cb"
     },
     {
-        "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/FloxAnimeIndia.cs3",
-        "status": 1,
-        "version": 12,
-        "name": "FloxAnimeIndia",
-        "internalName": "FloxAnimeIndia",
-        "authors": [
-            "Faisal"
-        ],
-        "description": "FloxAnimeIndia- Anime Provider Multi",
-        "fileSize": 22156,
-        "repositoryUrl": "https://github.com/Faisal0786/Desi",
-        "language": "hi",
-        "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "Anime"
-        ],
-        "iconUrl": "",
-        "apiVersion": 1,
-        "fileHash": "sha256-46e79d18e41997ad60128eff0e4db21b1356e728f02240b072efe4b01fff7228"
-    },
-    {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/MovieBox.cs3",
         "status": 1,
         "version": 12,
