@@ -142,7 +142,7 @@
             "Faisal"
         ],
         "description": "StreamHub One - Multilingual provider",
-        "fileSize": 963057,
+        "fileSize": 986647,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -154,7 +154,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/images%20(1).jpeg",
         "apiVersion": 1,
-        "fileHash": "sha256-9cf1f8853c74117ceaa9380a728ca98967d4ff4aa6d30b72bf45456a64165a6d"
+        "fileHash": "sha256-b7acf66ef17ed5492790500e56758ffb4df301caa4760659fb7e5835b42c9925"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/TamilToon.cs3",
