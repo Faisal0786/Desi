@@ -66,6 +66,28 @@
         "fileHash": "sha256-105d96a31185a85f9e5f0f519db1b29ea616e2d6b25c8cdf419b270bb74b22cb"
     },
     {
+        "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/FilmFly.cs3",
+        "status": 1,
+        "version": 12,
+        "name": "FilmFly",
+        "internalName": "FilmFly",
+        "authors": [
+            "Faisal"
+        ],
+        "description": "FilmyFly Provider for Bollywood, South Hindi Dubbed, Hollywood Movies & Web Series",
+        "fileSize": 29910,
+        "repositoryUrl": "https://github.com/Faisal0786/Desi",
+        "language": "hi",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "iconUrl": "",
+        "apiVersion": 1,
+        "fileHash": "sha256-ffd6581f530e381fdee2fc970ee95bd7f3668a4a84b9ee17eaa5c54ed5f84b7f"
+    },
+    {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/MovieBox.cs3",
         "status": 1,
         "version": 12,
