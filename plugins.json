@@ -110,6 +110,28 @@
         "fileHash": "sha256-a00797110878a33cd2680438d8b060b690909f08714fd50a4e599c36a1e437ad"
     },
     {
+        "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/MoviesDrive.cs3",
+        "status": 1,
+        "version": 18,
+        "name": "MoviesDrive",
+        "internalName": "MoviesDrive",
+        "authors": [
+            "Faisal"
+        ],
+        "description": "MoviesDrive Hindi - Hindi Dubbed Hollywood & Bollywood Content",
+        "fileSize": 47858,
+        "repositoryUrl": "https://github.com/Faisal0786/Desi",
+        "language": "hi",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "iconUrl": "",
+        "apiVersion": 1,
+        "fileHash": "sha256-f42ddc2bfc56d375c2e47d83bb7b712761d5a87e1dc26dedd7aaa84338e6aa4f"
+    },
+    {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/OttSource.cs3",
         "status": 1,
         "version": 7,
