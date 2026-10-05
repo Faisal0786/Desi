@@ -1,5 +1,25 @@
 [
     {
+        "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/18+.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "18+",
+        "internalName": "18+",
+        "authors": [
+            "Faisal"
+        ],
+        "description": "Premium Indian Content Provider",
+        "fileSize": 11266,
+        "repositoryUrl": "https://github.com/Faisal0786/Desi",
+        "language": "hi",
+        "tvTypes": [
+            "NSFW"
+        ],
+        "iconUrl": "https://fsi52.com/favicon-32x32.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-e6cdfd603c8d94172ac4a6b533fd2327c663a2572671823f3af8ed94afac0d3a"
+    },
+    {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/AniStream.cs3",
         "status": 1,
         "version": 1,
