@@ -63,29 +63,6 @@
         "fileHash": "sha256-33484614bec52df3e8b577400098b2e6e313c1b520bebd87f5bf50000043ec05"
     },
     {
-        "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/Ctg Stream.cs3",
-        "status": 1,
-        "version": 2,
-        "name": "Ctg Stream",
-        "internalName": "Ctg Stream",
-        "authors": [
-            "Faisal"
-        ],
-        "description": "multi Language Provider",
-        "fileSize": 33864,
-        "repositoryUrl": "https://github.com/Faisal0786/Desi",
-        "tvTypes": [
-            "TvSeries",
-            "Movie",
-            "AsianDrama",
-            "Anime",
-            "Torrent"
-        ],
-        "iconUrl": " ",
-        "apiVersion": 1,
-        "fileHash": "sha256-105d96a31185a85f9e5f0f519db1b29ea616e2d6b25c8cdf419b270bb74b22cb"
-    },
-    {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/FilmFly.cs3",
         "status": 1,
         "version": 22,
@@ -117,7 +94,7 @@
             "Faisal"
         ],
         "description": "KMMovies: Download & Stream Free Latest Hindi, English & Dubbed Movies in 480p, 720p, 1080p & 4K \u2013 Formerly Khatrimaza.",
-        "fileSize": 28705,
+        "fileSize": 32425,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -127,7 +104,7 @@
         ],
         "iconUrl": "https://kmmovies.cyou/wp-content/uploads/2026/02/cropped-favicon-192x192.png",
         "apiVersion": 1,
-        "fileHash": "sha256-40b1a2fea19383c9ad7c58611d6319f9141bf301ab9d3e89703b0d2c34a0636e"
+        "fileHash": "sha256-f1b92b38a8c952f463239f52b3a12f0135f236b086faac01d78eb815efe8dd5b"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/MovieBox.cs3",
@@ -228,7 +205,7 @@
             "Faisal"
         ],
         "description": "StreamHub One - Multilingual provider",
-        "fileSize": 990502,
+        "fileSize": 990494,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -240,7 +217,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/images%20(1).jpeg",
         "apiVersion": 1,
-        "fileHash": "sha256-968f6b6ce5d1d547903f070f3b9ba6585270a8802d61b8f5f09bd8d23af8f496"
+        "fileHash": "sha256-afb741f8da3f59037060f410e3aa22b447ea081706e409ceb6bf40b26bf222bd"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/TamilToon.cs3",
@@ -267,14 +244,14 @@
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/The Movie Flix.cs3",
         "status": 1,
-        "version": 26,
+        "version": 27,
         "name": "The Movie Flix",
         "internalName": "The Movie Flix",
         "authors": [
             "Faisal"
         ],
         "description": "TheMoviesFlix provider for Dual Audio, Bollywood and Hollywood Movies and TV Shows",
-        "fileSize": 56992,
+        "fileSize": 56995,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -284,7 +261,7 @@
         ],
         "iconUrl": "https://moviesflixi.com/favicon.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-c473160b23e333dd10e92f3cb5bbb1a7322bfe993a4bc7692ff0904018c30260"
+        "fileHash": "sha256-4fb71304fff2f9a84dfc00fe9037b276726130b22d3009f7a01e53112526af03"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/vegamovies.cs3",
