@@ -244,7 +244,7 @@
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/TamilToon.cs3",
         "status": 1,
-        "version": 7,
+        "version": 8,
         "name": "TamilToon",
         "internalName": "TamilToon",
         "authors": [
@@ -260,8 +260,9 @@
             "Anime",
             "AsianDrama"
         ],
+        "iconUrl": "https://tamiltvtoons.sbs/wp-content/uploads/2025/10/cropped-photo_2025-05-20_17-44-49.jpg",
         "apiVersion": 1,
-        "fileHash": "sha256-a68c12d4c5dbb045f5e7526fbe3f653c8192be2c7d8f16e511d1ee5544a7b1ad"
+        "fileHash": "sha256-2af135560429668743cf4cbcb8030a5ecdb4e378528ee605be5b9e88ee65112d"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/The Movie Flix.cs3",
