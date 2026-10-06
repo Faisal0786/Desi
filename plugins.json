@@ -117,7 +117,7 @@
             "Faisal"
         ],
         "description": "KMMovies: Download & Stream Free Latest Hindi, English & Dubbed Movies in 480p, 720p, 1080p & 4K \u2013 Formerly Khatrimaza.",
-        "fileSize": 28252,
+        "fileSize": 28705,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -127,7 +127,7 @@
         ],
         "iconUrl": "https://kmmovies.cyou/wp-content/uploads/2026/02/cropped-favicon-192x192.png",
         "apiVersion": 1,
-        "fileHash": "sha256-cb90b9f6d9874351b12be01ed91091e521bfd06892af23a5827afd1457394a0a"
+        "fileHash": "sha256-40b1a2fea19383c9ad7c58611d6319f9141bf301ab9d3e89703b0d2c34a0636e"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/MovieBox.cs3",
