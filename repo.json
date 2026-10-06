@@ -3,6 +3,7 @@
   "description": "Multi-Language Providers (OttSource, NetMirror)",
   "manifestVersion": 1,
   "repositoryUrl": "https://github.com/Faisal0786/Desi",
+  "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/file_0000000081ec8211bf6be20906876659.png",
   "pluginLists": [
     "https://raw.githubusercontent.com/Faisal0786/Desi/builds/plugins.json"
   ]
