@@ -108,6 +108,28 @@
         "fileHash": "sha256-26502ec2f06262050a43bef8fb4b44c2d892938e904c00e8a26d24c9896b6c78"
     },
     {
+        "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/KmMovies.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "KmMovies",
+        "internalName": "KmMovies",
+        "authors": [
+            "Faisal"
+        ],
+        "description": "KMMovies: Download & Stream Free Latest Hindi, English & Dubbed Movies in 480p, 720p, 1080p & 4K \u2013 Formerly Khatrimaza.",
+        "fileSize": 27232,
+        "repositoryUrl": "https://github.com/Faisal0786/Desi",
+        "language": "hi",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "iconUrl": "https://kmmovies.cyou/wp-content/uploads/2026/02/cropped-favicon-192x192.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-f55333db59f6c99d686f787fcec890838e25d395dd59b6d61d1279af8521cd7e"
+    },
+    {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/MovieBox.cs3",
         "status": 1,
         "version": 12,
