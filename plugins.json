@@ -20,6 +20,28 @@
         "fileHash": "sha256-6b4854f9edd563dbe2090e6cbd60933d012dae74f1f2efe2ad638900d21ee2f9"
     },
     {
+        "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/AnimeDubHindi.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "AnimeDubHindi",
+        "internalName": "AnimeDubHindi",
+        "authors": [
+            "Faisal"
+        ],
+        "description": "Hindi Dubbed Anime & Donghua Provider",
+        "fileSize": 34164,
+        "repositoryUrl": "https://github.com/Faisal0786/Desi",
+        "language": "hi",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "iconUrl": "https://www.animedubhindi.link/favicon.ico",
+        "apiVersion": 1,
+        "fileHash": "sha256-105dc86f4df82a7a5b29a161ac2fd6f3384e5f6b46fb74ebc03e879af41071b6"
+    },
+    {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/AniStream.cs3",
         "status": 1,
         "version": 1,
