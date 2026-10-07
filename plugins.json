@@ -289,14 +289,14 @@
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/vegamovies.cs3",
         "status": 1,
-        "version": 37,
+        "version": 38,
         "name": "vegamovies",
         "internalName": "vegamovies",
         "authors": [
             "Faisal"
         ],
         "description": "VegaMovies Provider for Dual Audio, Bollywood and Hollywood Movies and TV Shows",
-        "fileSize": 93615,
+        "fileSize": 93563,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -306,6 +306,6 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/images%20(2).jpeg",
         "apiVersion": 1,
-        "fileHash": "sha256-50bb7861ce4d995a8f27208c3feea6dce913b49afc00df45ae0721f7af170b75"
+        "fileHash": "sha256-714f4d7bbd6b39bcbfaf654afdc64aae489bb19e5dce1f35e8176b13c6a0d9d6"
     }
 ]
