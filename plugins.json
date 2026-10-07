@@ -296,7 +296,7 @@
             "Faisal"
         ],
         "description": "VegaMovies Provider for Dual Audio, Bollywood and Hollywood Movies and TV Shows",
-        "fileSize": 93046,
+        "fileSize": 93615,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -306,6 +306,6 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/images%20(2).jpeg",
         "apiVersion": 1,
-        "fileHash": "sha256-7ce357cb426bab2eaf0d161210af6c305b0bea2ae7821dd686895c090a849107"
+        "fileHash": "sha256-50bb7861ce4d995a8f27208c3feea6dce913b49afc00df45ae0721f7af170b75"
     }
 ]
