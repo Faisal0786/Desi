@@ -307,5 +307,27 @@
         "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/images%20(2).jpeg",
         "apiVersion": 1,
         "fileHash": "sha256-ade8e7ff50e4ae14b766a4eb7364b03a91bd639a4b65715d94932992133b40ac"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/WatchDrama.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "WatchDrama",
+        "internalName": "WatchDrama",
+        "authors": [
+            "Faisal"
+        ],
+        "description": "WatchDrama \u2014 Free Short Drama Streaming",
+        "fileSize": 23097,
+        "repositoryUrl": "https://github.com/Faisal0786/Desi",
+        "language": "en",
+        "tvTypes": [
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "iconUrl": "https://watchdrama.app/icon.png?utm_source=chatgpt.com",
+        "apiVersion": 1,
+        "fileHash": "sha256-e55eed26721dd2b1f342cd54c4829fa85579857720a36a53f55c5ae98b881a6d"
     }
 ]
