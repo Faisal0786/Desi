@@ -44,14 +44,14 @@
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/AnimeVilla.cs3",
         "status": 1,
-        "version": 1,
+        "version": 3,
         "name": "AnimeVilla",
         "internalName": "AnimeVilla",
         "authors": [
             "Faisal"
         ],
         "description": "Hindi Dubbed Anime from AnimeVilla",
-        "fileSize": 28299,
+        "fileSize": 28224,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -61,7 +61,7 @@
         ],
         "iconUrl": "https://animevilla.org/wp-content/uploads/2026/04/fevicon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-846171b412b2ca3bea34f53e290a4bc1c2f9747807d8d5f52b8e289420ac6318"
+        "fileHash": "sha256-e14722169c658bd5ad0c10f662fe6bf47c8d89ea58d6fa922128264f758a7703"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/AniStream.cs3",
