@@ -225,7 +225,7 @@
             "Faisal"
         ],
         "description": "Multi language Movies and Tv shows provider",
-        "fileSize": 35571,
+        "fileSize": 35574,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -237,7 +237,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/3a33c253fe5e25b4d61a6a8eb78da2a1.webp",
         "apiVersion": 1,
-        "fileHash": "sha256-cd791059c991cfa77ebaab86d581456a9ec3ae8855cc72768b3884f5534e310c"
+        "fileHash": "sha256-f7cc65a531b7eb1c51972d48acc546cdf7534f8f6ad1436df614985034dc1dfb"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/StreamHubOne.cs3",
@@ -248,8 +248,8 @@
         "authors": [
             "Faisal"
         ],
-        "description": "StreamHub One - Multilingual provider",
-        "fileSize": 1059750,
+        "description": "StreamHub -  Multilingual provider Non-Stop Solution For Streaming Movies/Tv series & Anime ",
+        "fileSize": 1059729,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -261,7 +261,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/images%20(1).jpeg",
         "apiVersion": 1,
-        "fileHash": "sha256-306b4f29edce5a98fd5dddfb7e8fd7b37b7a5c5fe65ccceed2d7a0a4179129bc"
+        "fileHash": "sha256-b5012093375d284330714ee8794d208ce4ff0b6f4d2d5e1ab983cf3696397fd6"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/TamilToon.cs3",
