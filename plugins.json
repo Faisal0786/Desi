@@ -195,6 +195,28 @@
         "fileHash": "sha256-f42ddc2bfc56d375c2e47d83bb7b712761d5a87e1dc26dedd7aaa84338e6aa4f"
     },
     {
+        "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/NetMovie.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "NetMovie",
+        "internalName": "NetMovie",
+        "authors": [
+            "Faisal"
+        ],
+        "description": "NetMovie Provider",
+        "fileSize": 32088,
+        "repositoryUrl": "https://github.com/Faisal0786/Desi",
+        "language": "hi",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "iconUrl": "",
+        "apiVersion": 1,
+        "fileHash": "sha256-27320e91111d0a371614373dcd747baee5c4d3c5c4a6202de93c45cf9e44d576"
+    },
+    {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/OttSource.cs3",
         "status": 1,
         "version": 7,
