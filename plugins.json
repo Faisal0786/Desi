@@ -195,6 +195,28 @@
         "fileHash": "sha256-f42ddc2bfc56d375c2e47d83bb7b712761d5a87e1dc26dedd7aaa84338e6aa4f"
     },
     {
+        "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/MoviesHunt.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "MoviesHunt",
+        "internalName": "MoviesHunt",
+        "authors": [
+            "Faisal"
+        ],
+        "description": "Movieshunt Provider for Hindi Dubbed, Bollywood, Hollywood Movies & Web Series.",
+        "fileSize": 33802,
+        "repositoryUrl": "https://github.com/Faisal0786/Desi",
+        "language": "hi",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "iconUrl": "https://movieshunt.living/wp-content/uploads/2024/11/favicon-icon.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-02336d2d577aaf1ce6b7101b81865685a22c4faba5a64eb9eaa09aefeb8f55cd"
+    },
+    {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/NetMovie.cs3",
         "status": 1,
         "version": 1,
@@ -271,7 +293,7 @@
             "Faisal"
         ],
         "description": "StreamHub -  Multilingual provider Non-Stop Solution For Streaming Movies/Tv series & Anime ",
-        "fileSize": 1152503,
+        "fileSize": 1150982,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -283,7 +305,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/images%20(1).jpeg",
         "apiVersion": 1,
-        "fileHash": "sha256-db5519372aaa8d54b2b52361856742c752e85124be4f562324216fb2bc193324"
+        "fileHash": "sha256-6c62a8dce962df8bb5eb62bf847d25bd48696b938c28d4ce87088bb5a6ae59eb"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/TamilToon.cs3",
