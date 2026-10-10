@@ -271,7 +271,7 @@
             "Faisal"
         ],
         "description": "StreamHub -  Multilingual provider Non-Stop Solution For Streaming Movies/Tv series & Anime ",
-        "fileSize": 1099814,
+        "fileSize": 1109715,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -283,7 +283,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/images%20(1).jpeg",
         "apiVersion": 1,
-        "fileHash": "sha256-ec83a7551584400794db180bae2fd425c9a668fa3d792a6c56b2e0c50cfdf9e1"
+        "fileHash": "sha256-6ae66de092784d761f92a120f5513e90f777c3f69992a2cdd3f16e34b753cfe7"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/TamilToon.cs3",
@@ -340,7 +340,7 @@
             "Faisal"
         ],
         "description": "VegaMovies Provider for Dual Audio, Bollywood and Hollywood Movies and TV Shows",
-        "fileSize": 96153,
+        "fileSize": 74388,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -350,7 +350,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/images%20(2).jpeg",
         "apiVersion": 1,
-        "fileHash": "sha256-ade8e7ff50e4ae14b766a4eb7364b03a91bd639a4b65715d94932992133b40ac"
+        "fileHash": "sha256-dabe16f3febc26c1860ee0ecb613d005baea953f46c4fdbb9e52788797b9d15c"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/WatchDrama.cs3",
