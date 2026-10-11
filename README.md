@@ -2,7 +2,7 @@
 
 # 🇮🇳 Desi Extensions & StreamHub One Repository 🎬
 
-![Version](https://img.shields.io/badge/Version-v64-blue?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-v66-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-Hindi%20%7C%20English%20%7C%20Regional-orange?style=for-the-badge)
 
@@ -25,7 +25,7 @@ Our flagship provider, **StreamHub One**, is built to give you a seamless stream
 
 **StreamHub One** is your all-in-one multilingual provider. 
 - **Author:** Faisal
-- **Version:** 64
+- **Version:** 66
 - **Size:** 1.15 MB
 - **Supported Content:** Movies, TvSeries, Anime, AnimeMovie, AsianDrama
 - **Primary Language:** Hindi 🇮🇳
