@@ -51,7 +51,7 @@
             "Faisal"
         ],
         "description": "Hindi Dubbed Anime from AnimeVilla",
-        "fileSize": 39055,
+        "fileSize": 33615,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -61,7 +61,7 @@
         ],
         "iconUrl": "https://animevilla.org/wp-content/uploads/2026/04/fevicon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-7d6b709587a97e143d1c25fc6e89cac994c49420c382e0ce9987ade2eb170850"
+        "fileHash": "sha256-743fcd313520c06c56b5c609c97c6f40ed62b7ce04afecf5c037a7a48ca9bf3a"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/AniStream.cs3",
@@ -293,7 +293,7 @@
             "Faisal"
         ],
         "description": "StreamHub -  Multilingual provider Non-Stop Solution For Streaming Movies/Tv series & Anime ",
-        "fileSize": 1145458,
+        "fileSize": 1145080,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -305,7 +305,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/images%20(1).jpeg",
         "apiVersion": 1,
-        "fileHash": "sha256-939b15145dd3943e1644bbf2f7126ad8525c14c4de808d53cac1027fc7a2d213"
+        "fileHash": "sha256-b376f41de6133776c52bff5583f36d280a9b65071d5add5c743312ff68d68eec"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/TamilToon.cs3",
