@@ -29,7 +29,7 @@
             "Faisal"
         ],
         "description": "Hindi Dubbed Anime & Donghua Provider",
-        "fileSize": 41041,
+        "fileSize": 38436,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -39,7 +39,7 @@
         ],
         "iconUrl": "https://www.animedubhindi.link/favicon.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-73f0395bac4dc122bb56c948909f9e987606edcd12280fed691233eebd65c7ae"
+        "fileHash": "sha256-217431cbea3c4a0a9d8c9e4401bab804c0c37300fe00ace9e0a7ff1c58c34fa1"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/AnimeVilla.cs3",
