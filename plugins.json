@@ -22,7 +22,7 @@
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/AnimeDubHindi.cs3",
         "status": 1,
-        "version": 3,
+        "version": 4,
         "name": "AnimeDubHindi",
         "internalName": "AnimeDubHindi",
         "authors": [
@@ -39,7 +39,7 @@
         ],
         "iconUrl": "https://www.animedubhindi.link/favicon.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-217431cbea3c4a0a9d8c9e4401bab804c0c37300fe00ace9e0a7ff1c58c34fa1"
+        "fileHash": "sha256-9ea4548dd582fa1fcfad5847af31595b1d1600ed95640acbb8dce8c8c90b3b0b"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/AnimeVilla.cs3",
@@ -109,14 +109,14 @@
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/FilmFly.cs3",
         "status": 1,
-        "version": 22,
+        "version": 23,
         "name": "FilmFly",
         "internalName": "FilmFly",
         "authors": [
             "Faisal"
         ],
         "description": "FilmyFly Provider for Bollywood, South Hindi Dubbed, Hollywood Movies & Web Series",
-        "fileSize": 29910,
+        "fileSize": 25110,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -126,7 +126,7 @@
         ],
         "iconUrl": "https://img.iwebp.store/images/files/afaa901b76bc48d57a346319423035dd384208.png",
         "apiVersion": 1,
-        "fileHash": "sha256-26502ec2f06262050a43bef8fb4b44c2d892938e904c00e8a26d24c9896b6c78"
+        "fileHash": "sha256-76c3712d1d30fa0ba5f8cca35fc2504cb7b2dddb52648d3cd41f7ead783ab9d4"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/KmMovies.cs3",
