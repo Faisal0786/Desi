@@ -109,14 +109,14 @@
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/FilmFly.cs3",
         "status": 1,
-        "version": 24,
+        "version": 25,
         "name": "FilmFly",
         "internalName": "FilmFly",
         "authors": [
             "Faisal"
         ],
         "description": "FilmyFly Provider for Bollywood, South Hindi Dubbed, Hollywood Movies & Web Series",
-        "fileSize": 25146,
+        "fileSize": 25116,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -126,7 +126,7 @@
         ],
         "iconUrl": "https://img.iwebp.store/images/files/afaa901b76bc48d57a346319423035dd384208.png",
         "apiVersion": 1,
-        "fileHash": "sha256-bcba1df2727fb0f3ec3eff2cbac00b05af25a1e5fc47573f9cd4c3e2655f078a"
+        "fileHash": "sha256-47b15e9fac08d9fec54df3be5448da50260d962668333c433598e0ba1942d7ff"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/KmMovies.cs3",
