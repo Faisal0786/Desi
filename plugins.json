@@ -286,14 +286,14 @@
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/StreamHubOne.cs3",
         "status": 1,
-        "version": 67,
+        "version": 68,
         "name": "StreamHubOne",
         "internalName": "StreamHubOne",
         "authors": [
             "Faisal"
         ],
         "description": "StreamHub -  Multilingual provider Non-Stop Solution For Streaming Movies/Tv series & Anime ",
-        "fileSize": 1145475,
+        "fileSize": 1145458,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -305,7 +305,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/images%20(1).jpeg",
         "apiVersion": 1,
-        "fileHash": "sha256-57aa39a3da639122e598b20047c90579ce6e971d76042954fecf1f8cca240c7e"
+        "fileHash": "sha256-939b15145dd3943e1644bbf2f7126ad8525c14c4de808d53cac1027fc7a2d213"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/TamilToon.cs3",
@@ -333,7 +333,7 @@
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/The Movie Flix.cs3",
         "status": 1,
-        "version": 27,
+        "version": 28,
         "name": "The Movie Flix",
         "internalName": "The Movie Flix",
         "authors": [
@@ -350,7 +350,7 @@
         ],
         "iconUrl": "https://moviesflixi.com/favicon.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-422a94c3f05468bffe0e1dc5e5921be348f95a600858332050fdcff563048a7d"
+        "fileHash": "sha256-68d5907b3667ed1a061dc503ef55537caf0a36a98a16f2f62456df8592e1c025"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/vegamovies.cs3",
