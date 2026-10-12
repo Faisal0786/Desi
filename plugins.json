@@ -51,7 +51,7 @@
             "Faisal"
         ],
         "description": "Hindi Dubbed Anime from AnimeVilla",
-        "fileSize": 33615,
+        "fileSize": 33775,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -61,7 +61,7 @@
         ],
         "iconUrl": "https://animevilla.org/wp-content/uploads/2026/04/fevicon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-743fcd313520c06c56b5c609c97c6f40ed62b7ce04afecf5c037a7a48ca9bf3a"
+        "fileHash": "sha256-349b15c431e0b31f9b8e02e5c2fffc6eeb9440015c3663ab1af27b3b58203ba7"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/AniStream.cs3",
