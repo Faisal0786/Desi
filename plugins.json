@@ -305,7 +305,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/images%20(1).jpeg",
         "apiVersion": 1,
-        "fileHash": "sha256-20d7dc6421459304c808b374af89e604bbd32d89919abe7f9fca18a2e7af2712"
+        "fileHash": "sha256-245321c44b555a551f942cafb07165bf4729e3b502372b5d090cd902f43406ee"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/TamilToon.cs3",
@@ -340,7 +340,7 @@
             "Faisal"
         ],
         "description": "TheMoviesFlix provider for Dual Audio, Bollywood and Hollywood Movies and TV Shows",
-        "fileSize": 56989,
+        "fileSize": 56994,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -350,7 +350,7 @@
         ],
         "iconUrl": "https://moviesflixi.com/favicon.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-68d5907b3667ed1a061dc503ef55537caf0a36a98a16f2f62456df8592e1c025"
+        "fileHash": "sha256-e96ea27fff94a77eb05b2fbc2f2f31f262556d68e3b1c8e2462c8ec1c3a1a454"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/vegamovies.cs3",
