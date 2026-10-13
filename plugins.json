@@ -109,14 +109,14 @@
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/FilmFly.cs3",
         "status": 1,
-        "version": 26,
+        "version": 27,
         "name": "FilmFly",
         "internalName": "FilmFly",
         "authors": [
             "Faisal"
         ],
         "description": "FilmyFly Provider for Bollywood, South Hindi Dubbed, Hollywood Movies & Web Series",
-        "fileSize": 29910,
+        "fileSize": 29907,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -126,7 +126,7 @@
         ],
         "iconUrl": "https://img.iwebp.store/images/files/afaa901b76bc48d57a346319423035dd384208.png",
         "apiVersion": 1,
-        "fileHash": "sha256-a759b50f8270fd5ac8e7915d6f849e2191427679c3d3d776a0333c143951775b"
+        "fileHash": "sha256-f1ec51af3aa384e16db9bfb1ab947397778234fe857e9a1e97e1e9be31a1daca"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/KmMovies.cs3",
@@ -293,7 +293,7 @@
             "Faisal"
         ],
         "description": "StreamHub -  Multilingual provider Non-Stop Solution For Streaming Movies/Tv series & Anime ",
-        "fileSize": 1143840,
+        "fileSize": 1143868,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -305,7 +305,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/images%20(1).jpeg",
         "apiVersion": 1,
-        "fileHash": "sha256-7b23514be50fdae27102758173cfee1d0f13d79f1429e173ed61c53cc2476e68"
+        "fileHash": "sha256-51ef26e9b9bcb8033c364f9bd8f5f01842d0b721af7dad97f25201dc89beef76"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/TamilToon.cs3",
