@@ -160,7 +160,7 @@
             "Faisal"
         ],
         "description": "MovieBox Native - Pure API Provider with Crypto Bypass",
-        "fileSize": 83287,
+        "fileSize": 82166,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -170,7 +170,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/IMG-20260920-WA0000.jpg",
         "apiVersion": 1,
-        "fileHash": "sha256-e4b2ef1176cf647951db5e010063482c1cab524a0291ff8daac0c4bd79727f30"
+        "fileHash": "sha256-5b2e5a220696c64ae6aa5f69f7559ff983be4c1db77434eaadbcd30067ff5b86"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/MoviesDrive.cs3",
