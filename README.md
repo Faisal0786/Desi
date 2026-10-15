@@ -25,7 +25,7 @@ Our flagship provider, **StreamHub One**, is built to give you a seamless stream
 
 **StreamHub One** is your all-in-one multilingual provider. 
 - **Author:** Faisal
-- **Version:** 66
+- **Version:** 72
 - **Size:** 1.15 MB
 - **Supported Content:** Movies, TvSeries, Anime, AnimeMovie, AsianDrama
 - **Primary Language:** Hindi 🇮🇳
