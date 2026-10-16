@@ -51,7 +51,7 @@
             "Faisal"
         ],
         "description": "Extracts Anime from Animegg (Subbed & Dubbed)",
-        "fileSize": 28888,
+        "fileSize": 32613,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "en",
         "tvTypes": [
@@ -61,7 +61,7 @@
         ],
         "iconUrl": "https://www.animegg.org/images/anime.png",
         "apiVersion": 1,
-        "fileHash": "sha256-55fb096045733c0172b4e43f50b133d91ecffb368542196b5879f8ecd4d928f2"
+        "fileHash": "sha256-8c142a53cd6630ca6b42415917ad05bccdc3b6131cd10a3015ab2be6a36aa714"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/AnimeVilla.cs3",
