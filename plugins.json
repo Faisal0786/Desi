@@ -42,6 +42,28 @@
         "fileHash": "sha256-9ea4548dd582fa1fcfad5847af31595b1d1600ed95640acbb8dce8c8c90b3b0b"
     },
     {
+        "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/AnimeGG.cs3",
+        "status": 1,
+        "version": 3,
+        "name": "AnimeGG",
+        "internalName": "AnimeGG",
+        "authors": [
+            "Faisal"
+        ],
+        "description": "Extracts Anime from Animegg (Subbed & Dubbed)",
+        "fileSize": 28888,
+        "repositoryUrl": "https://github.com/Faisal0786/Desi",
+        "language": "en",
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie",
+            "OVA"
+        ],
+        "iconUrl": "https://www.animegg.org/images/anime.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-55fb096045733c0172b4e43f50b133d91ecffb368542196b5879f8ecd4d928f2"
+    },
+    {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/AnimeVilla.cs3",
         "status": 1,
         "version": 3,
