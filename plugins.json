@@ -384,7 +384,7 @@
             "Faisal"
         ],
         "description": "TheMoviesFlix provider for Dual Audio, Bollywood and Hollywood Movies and TV Shows",
-        "fileSize": 57389,
+        "fileSize": 62249,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -394,7 +394,7 @@
         ],
         "iconUrl": "https://moviesflixi.com/favicon.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-37359dc034d7ea132e75daa233b57bd9b197bc0dc8aea0fc63c3761b4b166bd5"
+        "fileHash": "sha256-a08ca0ec31409703353a420c898a0e8a91513c6c961f184af9efe4830ed1f316"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/vegamovies.cs3",
