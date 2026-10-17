@@ -51,7 +51,7 @@
             "Faisal"
         ],
         "description": "Extracts Anime from Animegg (Subbed & Dubbed)",
-        "fileSize": 32351,
+        "fileSize": 32344,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "en",
         "tvTypes": [
@@ -61,7 +61,7 @@
         ],
         "iconUrl": "https://www.animegg.org/images/anime.png",
         "apiVersion": 1,
-        "fileHash": "sha256-8a999604f9a48c8da5890f3b447733e8477b5981a3eecf578b72a418a9376226"
+        "fileHash": "sha256-39e6a02afa555e7c9ed1c4044360f93fd637a34d4b126caea108428c0ee9a6a9"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/AnimeVilla.cs3",
@@ -377,14 +377,14 @@
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/vegamovies.cs3",
         "status": 1,
-        "version": 38,
+        "version": 39,
         "name": "vegamovies",
         "internalName": "vegamovies",
         "authors": [
             "Faisal"
         ],
         "description": "VegaMovies Provider for Dual Audio, Bollywood and Hollywood Movies and TV Shows",
-        "fileSize": 74388,
+        "fileSize": 74398,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -394,7 +394,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/images%20(2).jpeg",
         "apiVersion": 1,
-        "fileHash": "sha256-dabe16f3febc26c1860ee0ecb613d005baea953f46c4fdbb9e52788797b9d15c"
+        "fileHash": "sha256-f0e161b07e88da4b6e708b70573f31303a8a7588824f832acfa0b4bc29819b07"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/WatchDrama.cs3",
