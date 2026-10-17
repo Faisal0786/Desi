@@ -151,6 +151,28 @@
         "fileHash": "sha256-f1ec51af3aa384e16db9bfb1ab947397778234fe857e9a1e97e1e9be31a1daca"
     },
     {
+        "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/Joya9.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "Joya9",
+        "internalName": "Joya9",
+        "authors": [
+            "Faisal Ansari"
+        ],
+        "description": "Watch and download free movies and web series. (Use VPN in India)",
+        "fileSize": 24000,
+        "repositoryUrl": "https://github.com/Faisal0786/Desi",
+        "language": "hi",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "iconUrl": "https://joya9tv1.com/wp-content/uploads/2024/02/cropped-JAYA9-APK-512x512-1.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-64083a82605487631a63ea5fdfa571f3692fe5e569ddb445939cc5c1c526ba98"
+    },
+    {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/KmMovies.cs3",
         "status": 1,
         "version": 4,
