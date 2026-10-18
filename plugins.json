@@ -29,7 +29,7 @@
             "Faisal"
         ],
         "description": "Hindi Dubbed Anime & Donghua Provider",
-        "fileSize": 38436,
+        "fileSize": 39679,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -39,7 +39,7 @@
         ],
         "iconUrl": "https://www.animedubhindi.link/favicon.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-9ea4548dd582fa1fcfad5847af31595b1d1600ed95640acbb8dce8c8c90b3b0b"
+        "fileHash": "sha256-73dbaba9f96ab2900b7ce9afae8246812ea993087573d4262205f26efeaa15b5"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/AnimeGG.cs3",
@@ -51,7 +51,7 @@
             "Faisal"
         ],
         "description": "Extracts Anime from Animegg (Subbed & Dubbed)",
-        "fileSize": 32344,
+        "fileSize": 34371,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "en",
         "tvTypes": [
@@ -61,7 +61,7 @@
         ],
         "iconUrl": "https://www.animegg.org/images/anime.png",
         "apiVersion": 1,
-        "fileHash": "sha256-39e6a02afa555e7c9ed1c4044360f93fd637a34d4b126caea108428c0ee9a6a9"
+        "fileHash": "sha256-4cec4d806767849ec93e54b9c6070e273362d9d49f6134658ac8b45030381603"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/AnimeVilla.cs3",
@@ -73,7 +73,7 @@
             "Faisal"
         ],
         "description": "Hindi Dubbed Anime from AnimeVilla",
-        "fileSize": 35495,
+        "fileSize": 36937,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -83,7 +83,7 @@
         ],
         "iconUrl": "https://animevilla.org/wp-content/uploads/2026/04/fevicon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-c6e09e9102d0bf2f7fb8e8dcbf620ad4692f878c7c0fe73ac267ceab3a4daa5e"
+        "fileHash": "sha256-ebb42ce8d4524c1a24a42ea8ade0c65b8d57df1a70a1570a9d8324006f398671"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/AniStream.cs3",
@@ -95,7 +95,7 @@
             "Faisal"
         ],
         "description": "Watch anime in HD with English Sub and Dub from AniStream",
-        "fileSize": 42482,
+        "fileSize": 43942,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "en",
         "tvTypes": [
@@ -104,7 +104,7 @@
         ],
         "iconUrl": "https://anistream.one/og.png",
         "apiVersion": 1,
-        "fileHash": "sha256-1dfb001393e7b3de29622ce9b05131eaa50cfe6878cb9ae211a357b74a3a3631"
+        "fileHash": "sha256-14d3529bc15c12eeddc53c2aa59c242667a586ef167df2d9de620cba7250f117"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/Anizone.cs3",
@@ -160,7 +160,7 @@
             "Faisal Ansari"
         ],
         "description": "Watch and download free movies and web series. (Use VPN in India)",
-        "fileSize": 26156,
+        "fileSize": 27541,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "bn",
         "tvTypes": [
@@ -170,7 +170,7 @@
         ],
         "iconUrl": "https://joya9tv1.com/wp-content/uploads/2024/02/cropped-JAYA9-APK-512x512-1.png",
         "apiVersion": 1,
-        "fileHash": "sha256-28c8952bf01e8f1b0a2304a1bf12d5475ebac8a9411a1a729186d46375501a42"
+        "fileHash": "sha256-d58d4b7d96487d70a7d57c83dbd6a89e3c1ac27e639cbab61905035aa11f0c48"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/KmMovies.cs3",
@@ -182,7 +182,7 @@
             "Faisal"
         ],
         "description": "KMMovies: Download & Stream Free Latest Hindi, English & Dubbed Movies in 480p, 720p, 1080p & 4K \u2013 Formerly Khatrimaza.",
-        "fileSize": 32425,
+        "fileSize": 33791,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -192,7 +192,7 @@
         ],
         "iconUrl": "https://kmmovies.cyou/wp-content/uploads/2026/02/cropped-favicon-192x192.png",
         "apiVersion": 1,
-        "fileHash": "sha256-0f240d8180f144d8a9354cc1ea1ae1ed341e62138d9c0b65ce1c888d82167729"
+        "fileHash": "sha256-284d74af0a3da6bf37a307d6dbac3d1129b42c7bc97a0c92bdebff1e0b79950a"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/MovieBox.cs3",
@@ -226,7 +226,7 @@
             "Faisal"
         ],
         "description": "MoviesDrive Hindi - Hindi Dubbed Hollywood & Bollywood Content",
-        "fileSize": 47858,
+        "fileSize": 47874,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -236,7 +236,7 @@
         ],
         "iconUrl": "https://new1.moviesdrive.beer/wp-content/uploads/2026/01/cropped-Gemini_Generated_Image_qt93aqt93aqt93aq-1.png",
         "apiVersion": 1,
-        "fileHash": "sha256-f42ddc2bfc56d375c2e47d83bb7b712761d5a87e1dc26dedd7aaa84338e6aa4f"
+        "fileHash": "sha256-7a072fddc42ea1a47ec089f3176c03946a3c7226e7c727c514fdbb3d20775efe"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/MoviesHunt.cs3",
@@ -248,7 +248,7 @@
             "Faisal"
         ],
         "description": "Movieshunt Provider for Hindi Dubbed, Bollywood, Hollywood Movies & Web Series.",
-        "fileSize": 32961,
+        "fileSize": 34450,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -258,7 +258,7 @@
         ],
         "iconUrl": "https://movieshunt.living/wp-content/uploads/2024/11/favicon-icon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-fb0fcf002e5322d1b6ce72256b3a420fac92db802d347b3573f1f10f3d81c95b"
+        "fileHash": "sha256-60a9dbea8793b31f17d652e57b0db9e66a565faf9d23e2c467b6190802c1e7a0"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/NetMovie.cs3",
@@ -270,7 +270,7 @@
             "Faisal"
         ],
         "description": "NetMovie Provider",
-        "fileSize": 32088,
+        "fileSize": 33590,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -280,7 +280,7 @@
         ],
         "iconUrl": "",
         "apiVersion": 1,
-        "fileHash": "sha256-27320e91111d0a371614373dcd747baee5c4d3c5c4a6202de93c45cf9e44d576"
+        "fileHash": "sha256-c40114f5211decfde234f3191e13a5ac04ea1fd469782926dc706b5b8f4a0097"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/OttSource.cs3",
@@ -313,7 +313,7 @@
             "Faisal"
         ],
         "description": "Multi language Movies and Tv shows provider",
-        "fileSize": 35574,
+        "fileSize": 36885,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -325,7 +325,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/3a33c253fe5e25b4d61a6a8eb78da2a1.webp",
         "apiVersion": 1,
-        "fileHash": "sha256-f7cc65a531b7eb1c51972d48acc546cdf7534f8f6ad1436df614985034dc1dfb"
+        "fileHash": "sha256-1706c269ad4f820d38b751e2c8e7db6a3dd080913e7496dabf7687d6aa75374d"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/StreamHubOne.cs3",
@@ -361,7 +361,7 @@
             "Toon"
         ],
         "description": "TamilTvToons provider for Hindi-dubbed & Tamil Movies & TV shows, Anime and Asian dramas",
-        "fileSize": 44191,
+        "fileSize": 45246,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -372,7 +372,7 @@
         ],
         "iconUrl": "https://tamiltvtoons.sbs/wp-content/uploads/2025/10/cropped-photo_2025-05-20_17-44-49.jpg",
         "apiVersion": 1,
-        "fileHash": "sha256-2af135560429668743cf4cbcb8030a5ecdb4e378528ee605be5b9e88ee65112d"
+        "fileHash": "sha256-3236dd400b3de9c9ce6e4b7342366bcfb16d23c0f5d4982a01dd98b384550fd5"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/The Movie Flix.cs3",
@@ -384,7 +384,7 @@
             "Faisal"
         ],
         "description": "TheMoviesFlix provider for Dual Audio, Bollywood and Hollywood Movies and TV Shows",
-        "fileSize": 62249,
+        "fileSize": 63396,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -394,19 +394,19 @@
         ],
         "iconUrl": "https://moviesflixi.com/favicon.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-a08ca0ec31409703353a420c898a0e8a91513c6c961f184af9efe4830ed1f316"
+        "fileHash": "sha256-eaeff7bd54f76dc010e08acd5e6ee25206a907f4c7f55a1ce50de4ade143e1dc"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/vegamovies.cs3",
         "status": 1,
-        "version": 39,
+        "version": 21,
         "name": "vegamovies",
         "internalName": "vegamovies",
         "authors": [
             "Faisal"
         ],
         "description": "VegaMovies Provider for Dual Audio, Bollywood and Hollywood Movies and TV Shows",
-        "fileSize": 73046,
+        "fileSize": 74319,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -416,7 +416,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/images%20(2).jpeg",
         "apiVersion": 1,
-        "fileHash": "sha256-6db905c8d392d8083c83f865e60e70abbdc40e141219080add771ea5e5cd72ab"
+        "fileHash": "sha256-03ba7b84f32645057f717f92f14c62f9fe4924897cfdeb62c91c48a52b9eee72"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/WatchDrama.cs3",
