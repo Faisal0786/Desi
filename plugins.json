@@ -226,7 +226,7 @@
             "Faisal"
         ],
         "description": "Provider for Hindi Dubbed, Bollywood, Hollywood Movies & Web Series.",
-        "fileSize": 46081,
+        "fileSize": 47462,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -236,7 +236,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/Movies4u.png",
         "apiVersion": 1,
-        "fileHash": "sha256-854d6733df07cc8a3ed92a202518369ffdf7b6dc8d07a10638c2a320255bec64"
+        "fileHash": "sha256-0becb39913a0156ee07e0a482625466351b819dbec4dc0e3c5f40979ad720cb2"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/MoviesDrive.cs3",
