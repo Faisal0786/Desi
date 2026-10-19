@@ -217,28 +217,6 @@
         "fileHash": "sha256-a9ccf2d9bcf5cd69ad43c7cb7aaa6d405d1d8946a97a48958a7b77247e5222a5"
     },
     {
-        "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/Movies4u.cs3",
-        "status": 1,
-        "version": 1,
-        "name": "Movies4u",
-        "internalName": "Movies4u",
-        "authors": [
-            "Faisal"
-        ],
-        "description": "Provider for Hindi Dubbed, Bollywood, Hollywood Movies & Web Series.",
-        "fileSize": 43801,
-        "repositoryUrl": "https://github.com/Faisal0786/Desi",
-        "language": "hi",
-        "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "Anime"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/Movies4u.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-8ad4958624e94c0c95d28d0d95d6d6cb352c69231f1d6282861d40327ec2dabb"
-    },
-    {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/MoviesDrive.cs3",
         "status": 1,
         "version": 18,
