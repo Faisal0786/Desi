@@ -304,6 +304,28 @@
         "fileHash": "sha256-7d18ac937411570b2d3016df2a28d91a64a2950864ea40fee61032f05dfd09bf"
     },
     {
+        "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/ReelFren.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "ReelFren",
+        "internalName": "ReelFren",
+        "authors": [
+            "Faisal"
+        ],
+        "description": "reelfren",
+        "fileSize": 19545,
+        "repositoryUrl": "https://github.com/Faisal0786/Desi",
+        "language": "en",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "iconUrl": "",
+        "apiVersion": 1,
+        "fileHash": "sha256-ed0f915b5e91f89a9f4f4eff8bc090a92868dc0e2689fab8dde7e55f32e5866e"
+    },
+    {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/SDmovies.cs3",
         "status": 1,
         "version": 4,
