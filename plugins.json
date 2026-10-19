@@ -190,7 +190,7 @@
             "TvSeries",
             "Anime"
         ],
-        "iconUrl": "https://kmmovies.cyou/wp-content/uploads/2026/02/cropped-favicon-192x192.png",
+        "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/kmmovies.png",
         "apiVersion": 1,
         "fileHash": "sha256-284d74af0a3da6bf37a307d6dbac3d1129b42c7bc97a0c92bdebff1e0b79950a"
     },
@@ -215,6 +215,28 @@
         "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/IMG-20260920-WA0000.jpg",
         "apiVersion": 1,
         "fileHash": "sha256-a9ccf2d9bcf5cd69ad43c7cb7aaa6d405d1d8946a97a48958a7b77247e5222a5"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/Movies4u.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "Movies4u",
+        "internalName": "Movies4u",
+        "authors": [
+            "Faisal"
+        ],
+        "description": "Provider for Hindi Dubbed, Bollywood, Hollywood Movies & Web Series.",
+        "fileSize": 43801,
+        "repositoryUrl": "https://github.com/Faisal0786/Desi",
+        "language": "hi",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/Movies4u.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-8ad4958624e94c0c95d28d0d95d6d6cb352c69231f1d6282861d40327ec2dabb"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/MoviesDrive.cs3",
@@ -322,7 +344,7 @@
             "Anime",
             "AsianDrama"
         ],
-        "iconUrl": "https://reelfren.com/favicon.png",
+        "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/ReelFren.png",
         "apiVersion": 1,
         "fileHash": "sha256-cf552ddfdb2ec63fe315513bf8332637aec913ede492a977cb7bd4e98d552a4a"
     },
@@ -429,7 +451,7 @@
             "Faisal"
         ],
         "description": "VegaMovies Provider for Dual Audio, Bollywood and Hollywood Movies and TV Shows",
-        "fileSize": 74319,
+        "fileSize": 85717,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -439,7 +461,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/images%20(2).jpeg",
         "apiVersion": 1,
-        "fileHash": "sha256-03ba7b84f32645057f717f92f14c62f9fe4924897cfdeb62c91c48a52b9eee72"
+        "fileHash": "sha256-8643abc022dc9fb99d7b03a158f505544cafc6f872326b271810e489edf4be14"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/WatchDrama.cs3",
@@ -451,7 +473,7 @@
             "Faisal"
         ],
         "description": "WatchDrama \u2014 Free Short Drama Streaming",
-        "fileSize": 23097,
+        "fileSize": 34927,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "en",
         "tvTypes": [
@@ -461,6 +483,6 @@
         ],
         "iconUrl": "https://watchdrama.app/icon.png?utm_source=chatgpt.com",
         "apiVersion": 1,
-        "fileHash": "sha256-e55eed26721dd2b1f342cd54c4829fa85579857720a36a53f55c5ae98b881a6d"
+        "fileHash": "sha256-ae656085800cacc31ed0c0d47bc8fbd0f710bb498a2f5b63946155d5f2fd6887"
     }
 ]
