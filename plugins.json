@@ -306,24 +306,25 @@
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/ReelFren.cs3",
         "status": 1,
-        "version": 1,
+        "version": 3,
         "name": "ReelFren",
         "internalName": "ReelFren",
         "authors": [
             "Faisal"
         ],
-        "description": "reelfren",
+        "description": "ReelFren Provide Shorts Videos From Various Providers",
         "fileSize": 45582,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "en",
         "tvTypes": [
             "Movie",
             "TvSeries",
-            "Anime"
+            "Anime",
+            "AsianDrama"
         ],
-        "iconUrl": "",
+        "iconUrl": "https://reelfren.com/favicon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-919ca320dc69bc3e49b4520e755a710ec7ba8b0210032eaea959d667e8733801"
+        "fileHash": "sha256-cf552ddfdb2ec63fe315513bf8332637aec913ede492a977cb7bd4e98d552a4a"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/SDmovies.cs3",
