@@ -131,14 +131,14 @@
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/Cinedoz.cs3",
         "status": 1,
-        "version": 1,
+        "version": 2,
         "name": "Cinedoz",
         "internalName": "Cinedoz",
         "authors": [
             "Faisal"
         ],
         "description": "Provider for CineDoze - Hindi Dubbed, BanglaDub, Bollywood, Hollywood Movies & Web Series.",
-        "fileSize": 45608,
+        "fileSize": 45554,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "bn",
         "tvTypes": [
@@ -148,7 +148,7 @@
         ],
         "iconUrl": "https://cinedoze.tv/wp-content/uploads/2024/05/cropped-4980085-192x192.png",
         "apiVersion": 1,
-        "fileHash": "sha256-c313ed05f49e9fe4c4d6843d302d647aca07ebf5e574f2af66d4807cfbb27ebf"
+        "fileHash": "sha256-ceac6f2bead12bf073b5fbcac686628f12386288f5be1dc41e6eec91c1eb589b"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/FilmFly.cs3",
