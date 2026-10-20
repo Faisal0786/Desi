@@ -138,7 +138,7 @@
             "Faisal"
         ],
         "description": "Provider for CineDoze - Hindi Dubbed, BanglaDub, Bollywood, Hollywood Movies & Web Series.",
-        "fileSize": 46286,
+        "fileSize": 45608,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "bn",
         "tvTypes": [
@@ -148,7 +148,7 @@
         ],
         "iconUrl": "https://cinedoze.tv/wp-content/uploads/2024/05/cropped-4980085-192x192.png",
         "apiVersion": 1,
-        "fileHash": "sha256-96945abd6972a23d5dd7bede0160378a280dfc98f4d3bde8fe42eb0ae4733687"
+        "fileHash": "sha256-c313ed05f49e9fe4c4d6843d302d647aca07ebf5e574f2af66d4807cfbb27ebf"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/FilmFly.cs3",
