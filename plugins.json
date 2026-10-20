@@ -225,16 +225,16 @@
         "authors": [
             "Faisal"
         ],
-        "description": "Provider for Hindi Dubbed, Bollywood, Hollywood Movies & Web Series.",
+        "description": "Provider for CineDoze - Hindi Dubbed, BanglaDub, Bollywood, Hollywood Movies & Web Series.",
         "fileSize": 47462,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
-        "language": "hi",
+        "language": "bn",
         "tvTypes": [
             "Movie",
             "TvSeries",
             "Anime"
         ],
-        "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/Movies4u.png",
+        "iconUrl": "https://cinedoze.tv/wp-content/uploads/2024/05/cropped-4980085-192x192.png",
         "apiVersion": 1,
         "fileHash": "sha256-0becb39913a0156ee07e0a482625466351b819dbec4dc0e3c5f40979ad720cb2"
     },
