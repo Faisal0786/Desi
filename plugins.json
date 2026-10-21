@@ -397,7 +397,7 @@
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/StreamHubOne.cs3",
         "status": 1,
-        "version": 72,
+        "version": 73,
         "name": "StreamHubOne",
         "internalName": "StreamHubOne",
         "authors": [
@@ -416,7 +416,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/images%20(1).jpeg",
         "apiVersion": 1,
-        "fileHash": "sha256-1bd445e733cc72d12067eaeee5068ac035dec504a757330fda29d97558319eb3"
+        "fileHash": "sha256-1eeadb4ab58c60ed9fa57f5b9beec2bf8317f77d852c1ca914a5c892cc9eb48e"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/TamilToon.cs3",
