@@ -336,7 +336,7 @@
             "Faisal"
         ],
         "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
-        "fileSize": 97018,
+        "fileSize": 100596,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -345,7 +345,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/2504929.png",
         "apiVersion": 1,
-        "fileHash": "sha256-1c00ee3d8c057479d9f0d6f065d6abf3c27a549f50c9c138d036c55b9cef8b02"
+        "fileHash": "sha256-647774d7527c7824d83a0ba1392ca54e63e6d54f21772e5c1b6fc3f8ab446cf1"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/ReelFren.cs3",
