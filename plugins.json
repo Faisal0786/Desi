@@ -327,9 +327,9 @@
         "fileHash": "sha256-c40114f5211decfde234f3191e13a5ac04ea1fd469782926dc706b5b8f4a0097"
     },
     {
-        "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/OttSource.cs3",
+        "url": "https://raw.githubusercontent.com/nilofarwitch-ux/CSX/builds/Ott.cs3",
         "status": 1,
-        "version": 7,
+        "version": 4,
         "name": "OttSource",
         "internalName": "OttSource",
         "authors": [
@@ -345,7 +345,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/2504929.png",
         "apiVersion": 1,
-        "fileHash": "sha256-440e892b2f4ef3e24983e2d43515331daebbbec31f98fe29fbe2c3dfa44a1811"
+        "fileHash": "sha256-c950ef0c268e00df1cfc68795015783c3c0726ba81944988757ac869d9c3c52b"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/ReelFren.cs3",
