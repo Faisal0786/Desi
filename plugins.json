@@ -151,28 +151,6 @@
         "fileHash": "sha256-ceac6f2bead12bf073b5fbcac686628f12386288f5be1dc41e6eec91c1eb589b"
     },
     {
-        "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/FilmFly.cs3",
-        "status": 1,
-        "version": 27,
-        "name": "FilmFly",
-        "internalName": "FilmFly",
-        "authors": [
-            "Faisal"
-        ],
-        "description": "FilmyFly Provider for Bollywood, South Hindi Dubbed, Hollywood Movies & Web Series",
-        "fileSize": 29907,
-        "repositoryUrl": "https://github.com/Faisal0786/Desi",
-        "language": "hi",
-        "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "Anime"
-        ],
-        "iconUrl": "https://img.iwebp.store/images/files/afaa901b76bc48d57a346319423035dd384208.png",
-        "apiVersion": 1,
-        "fileHash": "sha256-f1ec51af3aa384e16db9bfb1ab947397778234fe857e9a1e97e1e9be31a1daca"
-    },
-    {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/Joya9.cs3",
         "status": 1,
         "version": 3,
@@ -327,16 +305,16 @@
         "fileHash": "sha256-c40114f5211decfde234f3191e13a5ac04ea1fd469782926dc706b5b8f4a0097"
     },
     {
-        "url": "https://raw.githubusercontent.com/nilofarwitch-ux/CSX/builds/Ott.cs3",
+        "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/OttSource.cs3",
         "status": 1,
-        "version": 4,
+        "version": 8,
         "name": "OttSource",
         "internalName": "OttSource",
         "authors": [
             "Faisal"
         ],
         "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
-        "fileSize": 101182,
+        "fileSize": 102240,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -345,7 +323,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/2504929.png",
         "apiVersion": 1,
-        "fileHash": "sha256-c950ef0c268e00df1cfc68795015783c3c0726ba81944988757ac869d9c3c52b"
+        "fileHash": "sha256-2e78d8511a263be8338d695d2fbd1186cf8449c51d8b78a33eac7419d2e62122"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/ReelFren.cs3",
@@ -380,7 +358,7 @@
             "Faisal"
         ],
         "description": "Multi language Movies and Tv shows provider",
-        "fileSize": 36885,
+        "fileSize": 36939,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -392,7 +370,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/3a33c253fe5e25b4d61a6a8eb78da2a1.webp",
         "apiVersion": 1,
-        "fileHash": "sha256-1706c269ad4f820d38b751e2c8e7db6a3dd080913e7496dabf7687d6aa75374d"
+        "fileHash": "sha256-3da768f13f74df57b6b711febec7e759f53ecfba98af89efcf150eef465f9166"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/StreamHubOne.cs3",
@@ -451,7 +429,7 @@
             "Faisal"
         ],
         "description": "TheMoviesFlix provider for Dual Audio, Bollywood and Hollywood Movies and TV Shows",
-        "fileSize": 63519,
+        "fileSize": 63430,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -461,7 +439,7 @@
         ],
         "iconUrl": "https://moviesflixi.com/favicon.ico",
         "apiVersion": 1,
-        "fileHash": "sha256-399b64d8f49dea33bd0ed4a29e7dc209d0f2e497841ab3ed7c9e962e558de206"
+        "fileHash": "sha256-846e8ff9aa5563c54e08b1b69bf9aa6069868ab23d9ef61c975ddda489f1b5ac"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/vegamovies.cs3",
