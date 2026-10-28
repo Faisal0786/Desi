@@ -9,7 +9,7 @@
             "Faisal"
         ],
         "description": "Desi Viral Indian Content Provider",
-        "fileSize": 20267,
+        "fileSize": 20247,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -17,7 +17,7 @@
         ],
         "iconUrl": "https://fsi52.com/favicon-32x32.png",
         "apiVersion": 1,
-        "fileHash": "sha256-3e69a6a97fd33a6c3e550c7963eff1c2918b6b46722dbbe9f4a00c62ab7a304e"
+        "fileHash": "sha256-bfdf1701f1397e5ebb3865aa5eac43302b7640f75708a98caca31315da7a529f"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/AnimeDubHindi.cs3",
@@ -382,7 +382,7 @@
             "Faisal"
         ],
         "description": "StreamHub -  Multilingual provider Non-Stop Solution For Streaming Movies/Tv series & Anime ",
-        "fileSize": 1171846,
+        "fileSize": 1175984,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -394,7 +394,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/images%20(1).jpeg",
         "apiVersion": 1,
-        "fileHash": "sha256-10badbe9a0da2a7e386937bd081559a97b9ed8122aa438cb56ad8d35c8c7418c"
+        "fileHash": "sha256-1e134f3cb7731d8c48ac5debbed076c81973fd9249d3be7b480f6fa14c4d29a1"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/TamilToon.cs3",
