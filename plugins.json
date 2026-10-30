@@ -307,14 +307,14 @@
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/OttSource.cs3",
         "status": 1,
-        "version": 8,
+        "version": 9,
         "name": "OttSource",
         "internalName": "OttSource",
         "authors": [
             "Faisal"
         ],
-        "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
-        "fileSize": 102240,
+        "description": "OttSource Plugin Contains - Netflix Hindi, Amazon Prime Video, Disney+,  Jio Hotstar Contents in Multiple Languages",
+        "fileSize": 101086,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -323,7 +323,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/2504929.png",
         "apiVersion": 1,
-        "fileHash": "sha256-2e78d8511a263be8338d695d2fbd1186cf8449c51d8b78a33eac7419d2e62122"
+        "fileHash": "sha256-d209044a1d1b66dcca582896f0847fe6cd890398531eded33b17d9a67896d5ef"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/ReelFren.cs3",
