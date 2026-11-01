@@ -64,6 +64,28 @@
         "fileHash": "sha256-4cec4d806767849ec93e54b9c6070e273362d9d49f6134658ac8b45030381603"
     },
     {
+        "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/AnimeSky.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "AnimeSky",
+        "internalName": "AnimeSky",
+        "authors": [
+            "Faisal"
+        ],
+        "description": "Hindi Dubbed Anime from AnimeSky/AnimeSalt",
+        "fileSize": 23620,
+        "repositoryUrl": "https://github.com/Faisal0786/Desi",
+        "language": "hi",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "iconUrl": "",
+        "apiVersion": 1,
+        "fileHash": "sha256-3b89670d9019470ff280d3825458b6b1245c090ebfbad210130b73b2f8ed26e1"
+    },
+    {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/AnimeVilla.cs3",
         "status": 1,
         "version": 3,
