@@ -73,7 +73,7 @@
             "Faisal"
         ],
         "description": "Hindi Dubbed Anime from AnimeSky/AnimeSalt",
-        "fileSize": 23620,
+        "fileSize": 27044,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -83,7 +83,7 @@
         ],
         "iconUrl": "",
         "apiVersion": 1,
-        "fileHash": "sha256-3b89670d9019470ff280d3825458b6b1245c090ebfbad210130b73b2f8ed26e1"
+        "fileHash": "sha256-72e2cbd8dbba1cd77bc6fc8a380b981ddc3cdb655e31cd3b25272ac1460da510"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/AnimeVilla.cs3",
@@ -397,14 +397,14 @@
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/StreamHubOne.cs3",
         "status": 1,
-        "version": 76,
+        "version": 77,
         "name": "StreamHubOne",
         "internalName": "StreamHubOne",
         "authors": [
             "Faisal"
         ],
         "description": "StreamHub -  Multilingual provider Non-Stop Solution For Streaming Movies/Tv series & Anime ",
-        "fileSize": 1182624,
+        "fileSize": 1306442,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -416,7 +416,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/images%20(1).jpeg",
         "apiVersion": 1,
-        "fileHash": "sha256-d7419651dd4ea58ce8ec72bd7b28fe641afebe6f242e8432c2b1626f520f50a3"
+        "fileHash": "sha256-50543f493991942064c18c08a21966e7458aab32ed908edb5c36c45899be4984"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/TamilToon.cs3",
