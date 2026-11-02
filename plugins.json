@@ -160,7 +160,7 @@
             "Faisal"
         ],
         "description": "In Testing Phase",
-        "fileSize": 23572,
+        "fileSize": 23589,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -170,7 +170,7 @@
         ],
         "iconUrl": "",
         "apiVersion": 1,
-        "fileHash": "sha256-a8fc2e2b81df77ce11018bdb9096f467f5673b6d736b3799be9ac863c3f854be"
+        "fileHash": "sha256-1f7bbedc4702eb1ea098010e38fe8c98cd15c69f953e4e248c9cc2a474f91a1a"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/Cinedoz.cs3",
