@@ -2,7 +2,7 @@
 
 # 🇮🇳 Desi Extensions & StreamHub One Repository 🎬
 
-![Version](https://img.shields.io/badge/Version-v66-blue?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-v80-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-Hindi%20%7C%20English%20%7C%20Regional-orange?style=for-the-badge)
 
