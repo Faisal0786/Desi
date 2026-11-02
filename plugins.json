@@ -151,6 +151,28 @@
         "fileHash": "sha256-33484614bec52df3e8b577400098b2e6e313c1b520bebd87f5bf50000043ec05"
     },
     {
+        "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/AryaVidya.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "AryaVidya",
+        "internalName": "AryaVidya",
+        "authors": [
+            "Faisal"
+        ],
+        "description": "In Testing Phase",
+        "fileSize": 23572,
+        "repositoryUrl": "https://github.com/Faisal0786/Desi",
+        "language": "hi",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "iconUrl": "",
+        "apiVersion": 1,
+        "fileHash": "sha256-a8fc2e2b81df77ce11018bdb9096f467f5673b6d736b3799be9ac863c3f854be"
+    },
+    {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/Cinedoz.cs3",
         "status": 1,
         "version": 2,
@@ -404,7 +426,7 @@
             "Faisal"
         ],
         "description": "StreamHub -  Multilingual provider Non-Stop Solution For Streaming Movies/Tv series & Anime ",
-        "fileSize": 1283278,
+        "fileSize": 1289184,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -416,7 +438,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/images%20(1).jpeg",
         "apiVersion": 1,
-        "fileHash": "sha256-d9ae0b69b7fd0eea6fb8eb51655ec71c47865608cb23baaaf0cbe84672e99567"
+        "fileHash": "sha256-e03e49fef022b70add8ebd69ffff067d43d3e5f3d21ebdd78fc674cbf86bc263"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/TamilToon.cs3",
