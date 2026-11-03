@@ -372,14 +372,14 @@
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/ReelFren.cs3",
         "status": 1,
-        "version": 4,
+        "version": 5,
         "name": "ReelFren",
         "internalName": "ReelFren",
         "authors": [
             "Faisal"
         ],
         "description": "ReelFren Provide Shorts Videos From Various Providers",
-        "fileSize": 45582,
+        "fileSize": 45564,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "en",
         "tvTypes": [
@@ -390,7 +390,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/ReelFren.png",
         "apiVersion": 1,
-        "fileHash": "sha256-2323f96b15ecce4f19bfc6b5ddec9daecded2a9b2fa9f98dda1a181a80c114f3"
+        "fileHash": "sha256-35adc7d628073df4a87c5c5e809e7e7010b08214fee290bbe7eadaeaad44a5b2"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/SDmovies.cs3",
