@@ -372,7 +372,7 @@
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/ReelFren.cs3",
         "status": 1,
-        "version": 3,
+        "version": 4,
         "name": "ReelFren",
         "internalName": "ReelFren",
         "authors": [
@@ -390,7 +390,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/ReelFren.png",
         "apiVersion": 1,
-        "fileHash": "sha256-cf552ddfdb2ec63fe315513bf8332637aec913ede492a977cb7bd4e98d552a4a"
+        "fileHash": "sha256-2323f96b15ecce4f19bfc6b5ddec9daecded2a9b2fa9f98dda1a181a80c114f3"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/SDmovies.cs3",
