@@ -153,24 +153,22 @@
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/AryaVidya.cs3",
         "status": 1,
-        "version": 1,
+        "version": 12,
         "name": "AryaVidya",
         "internalName": "AryaVidya",
         "authors": [
-            "Faisal"
+            "decodede"
         ],
-        "description": "In Testing Phase",
-        "fileSize": 23589,
+        "description": "Free PW batches, lectures, OTT videos.",
+        "fileSize": 55340,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
-        "language": "hi",
+        "language": "en",
         "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "Anime"
+            "Others"
         ],
-        "iconUrl": "",
+        "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/AryaVidya.png",
         "apiVersion": 1,
-        "fileHash": "sha256-1f7bbedc4702eb1ea098010e38fe8c98cd15c69f953e4e248c9cc2a474f91a1a"
+        "fileHash": "sha256-c73b77ffbcfbf6d855efb8a017fc01790eaea7925bff48c77e56366339ce01d6"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/Cinedoz.cs3",
