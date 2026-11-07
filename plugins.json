@@ -88,14 +88,14 @@
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/AnimeVilla.cs3",
         "status": 1,
-        "version": 3,
+        "version": 4,
         "name": "AnimeVilla",
         "internalName": "AnimeVilla",
         "authors": [
             "Faisal"
         ],
         "description": "Hindi Dubbed Anime from AnimeVilla",
-        "fileSize": 36937,
+        "fileSize": 42223,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -105,7 +105,7 @@
         ],
         "iconUrl": "https://animevilla.org/wp-content/uploads/2026/04/fevicon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-ebb42ce8d4524c1a24a42ea8ade0c65b8d57df1a70a1570a9d8324006f398671"
+        "fileHash": "sha256-bab9c74fdc93fea697de297f61a8368fa94d23b351e0bb24abb16080fb6d4c4c"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/AniStream.cs3",
@@ -305,14 +305,14 @@
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/MoviesHunt.cs3",
         "status": 1,
-        "version": 2,
+        "version": 3,
         "name": "MoviesHunt",
         "internalName": "MoviesHunt",
         "authors": [
             "Faisal"
         ],
         "description": "Movieshunt Provider for Hindi Dubbed, Bollywood, Hollywood Movies & Web Series.",
-        "fileSize": 34450,
+        "fileSize": 44785,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -322,7 +322,7 @@
         ],
         "iconUrl": "https://movieshunt.living/wp-content/uploads/2024/11/favicon-icon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-60a9dbea8793b31f17d652e57b0db9e66a565faf9d23e2c467b6190802c1e7a0"
+        "fileHash": "sha256-eabcd45fea5efcf8d37c8787a701eed1d988ce35135d3d2f665365107e229242"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/NetMovie.cs3",
@@ -448,7 +448,7 @@
             "Toon"
         ],
         "description": "TamilTvToons provider for Hindi-dubbed & Tamil Movies & TV shows, Anime and Asian dramas",
-        "fileSize": 45246,
+        "fileSize": 45241,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -459,7 +459,7 @@
         ],
         "iconUrl": "https://tamiltvtoons.sbs/wp-content/uploads/2025/10/cropped-photo_2025-05-20_17-44-49.jpg",
         "apiVersion": 1,
-        "fileHash": "sha256-3236dd400b3de9c9ce6e4b7342366bcfb16d23c0f5d4982a01dd98b384550fd5"
+        "fileHash": "sha256-95c25da9aec3cb4b504cc6a6144713e3017791b5c752d99be2f55b6eadeb86ec"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/The Movie Flix.cs3",
