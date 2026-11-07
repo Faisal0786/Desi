@@ -305,14 +305,14 @@
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/MoviesHunt.cs3",
         "status": 1,
-        "version": 3,
+        "version": 4,
         "name": "MoviesHunt",
         "internalName": "MoviesHunt",
         "authors": [
             "Faisal"
         ],
         "description": "Movieshunt Provider for Hindi Dubbed, Bollywood, Hollywood Movies & Web Series.",
-        "fileSize": 44785,
+        "fileSize": 44906,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -322,7 +322,7 @@
         ],
         "iconUrl": "https://movieshunt.living/wp-content/uploads/2024/11/favicon-icon.png",
         "apiVersion": 1,
-        "fileHash": "sha256-eabcd45fea5efcf8d37c8787a701eed1d988ce35135d3d2f665365107e229242"
+        "fileHash": "sha256-c94731ed1cb22ed377d5f40d1ce167c46f1a71b130982041c1d88e27d890335e"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/NetMovie.cs3",
