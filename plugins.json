@@ -20,6 +20,28 @@
         "fileHash": "sha256-bfdf1701f1397e5ebb3865aa5eac43302b7640f75708a98caca31315da7a529f"
     },
     {
+        "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/Anidap.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "Anidap",
+        "internalName": "Anidap",
+        "authors": [
+            "Faisal"
+        ],
+        "description": "Free anime streaming portal with HD sub & dub, powered by AniList metadata",
+        "fileSize": 34249,
+        "repositoryUrl": "https://github.com/Faisal0786/Desi",
+        "language": "hi",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "iconUrl": "https://anidap.lol/favicon.ico",
+        "apiVersion": 1,
+        "fileHash": "sha256-75f1f09f63ca02946dd1d8bd278ee9e238bcf75221093119823c42c476c3941c"
+    },
+    {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/AnimeDubHindi.cs3",
         "status": 1,
         "version": 4,
@@ -235,6 +257,28 @@
         "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/kmmovies.png",
         "apiVersion": 1,
         "fileHash": "sha256-284d74af0a3da6bf37a307d6dbac3d1129b42c7bc97a0c92bdebff1e0b79950a"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/LunarX.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "LunarX",
+        "internalName": "LunarX",
+        "authors": [
+            "Faisal"
+        ],
+        "description": "German & English anime streaming with Sub/Dub/HSub",
+        "fileSize": 50737,
+        "repositoryUrl": "https://github.com/Faisal0786/Desi",
+        "language": "hi",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "iconUrl": "https://lunarx.to/favicon.ico",
+        "apiVersion": 1,
+        "fileHash": "sha256-b807fe41f493bc803446e493215c3a1c687dd6ff06460e508f6cf1c01e019978"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/MovieBox.cs3",
@@ -526,5 +570,27 @@
         "iconUrl": "https://watchdrama.app/icon.png?utm_source=chatgpt.com",
         "apiVersion": 1,
         "fileHash": "sha256-ae656085800cacc31ed0c0d47bc8fbd0f710bb498a2f5b63946155d5f2fd6887"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/Xanime.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "Xanime",
+        "internalName": "Xanime",
+        "authors": [
+            "Faisal"
+        ],
+        "description": "Online anime platform with Sub/Dub streaming, ratings, and multi-genre filtering",
+        "fileSize": 21582,
+        "repositoryUrl": "https://github.com/Faisal0786/Desi",
+        "language": "en",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "iconUrl": "https://xanime.me/favicon.ico",
+        "apiVersion": 1,
+        "fileHash": "sha256-19ddb202063305d13075c816532e4db2248eea81f4c9ea1c041e6617f6d643b5"
     }
 ]
