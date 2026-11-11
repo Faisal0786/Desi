@@ -94,7 +94,7 @@
             "Faisal"
         ],
         "description": "Hindi Dubbed Anime from AnimeSky/AnimeSalt",
-        "fileSize": 27045,
+        "fileSize": 31841,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -104,7 +104,7 @@
         ],
         "iconUrl": "https://animesky.app/wp-content/uploads/AnimeSkyIcon-193x202.png",
         "apiVersion": 1,
-        "fileHash": "sha256-32473a4330810540e294015da4cc6984ef9d2f51f322b5dacb6dd7ea19d7ed51"
+        "fileHash": "sha256-c7ee94f33c62fcbeb6f8586c4c843584e79586830f0ed27df435d063d2e353cc"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/AnimeVilla.cs3",
@@ -483,14 +483,14 @@
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/TamilToon.cs3",
         "status": 1,
-        "version": 8,
+        "version": 9,
         "name": "TamilToon",
         "internalName": "TamilToon",
         "authors": [
             "Toon"
         ],
         "description": "TamilTvToons provider for Hindi-dubbed & Tamil Movies & TV shows, Anime and Asian dramas",
-        "fileSize": 45241,
+        "fileSize": 46123,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -501,7 +501,7 @@
         ],
         "iconUrl": "https://tamiltvtoons.sbs/wp-content/uploads/2025/10/cropped-photo_2025-05-20_17-44-49.jpg",
         "apiVersion": 1,
-        "fileHash": "sha256-95c25da9aec3cb4b504cc6a6144713e3017791b5c752d99be2f55b6eadeb86ec"
+        "fileHash": "sha256-5e39e236de098ffc66bc89474f7b429e385ffbdf2618eabb7712a37250617328"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/The Movie Flix.cs3",
