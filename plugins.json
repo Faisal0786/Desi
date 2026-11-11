@@ -20,6 +20,27 @@
         "fileHash": "sha256-bfdf1701f1397e5ebb3865aa5eac43302b7640f75708a98caca31315da7a529f"
     },
     {
+        "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/4khdHub.cs3",
+        "status": 1,
+        "version": 3,
+        "name": "4khdHub",
+        "internalName": "4khdHub",
+        "authors": [
+            "Faisal"
+        ],
+        "description": "4khdHub: Download & Stream Latest Bollywood, Hollywood, South Hindi, Hindi Dubbed Movies & Web Series in 4K \u2014",
+        "fileSize": 71815,
+        "repositoryUrl": "https://github.com/Faisal0786/Desi",
+        "language": "hi",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/4khdhub.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-6356d7dea129a7b353b337e85ebbe563fc9ab52a131a8b40d8a9cd15f0917515"
+    },
+    {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/AnimeDubHindi.cs3",
         "status": 1,
         "version": 4,
@@ -202,16 +223,16 @@
             "Faisal"
         ],
         "description": "HDHub4u: Download & Stream Latest Bollywood, Hollywood, South Hindi, Hindi Dubbed Movies & Web Series in 480p, 720p, 1080p & 4K \u2014 with direct HubCloud, HubDrive & PlayDrive links.",
-        "fileSize": 56452,
+        "fileSize": 59852,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
             "Movie",
             "TvSeries"
         ],
-        "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/hdhub4u.png\u2060",
+        "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/hdhub4u.png?utm_source=chatgpt.com\u2060",
         "apiVersion": 1,
-        "fileHash": "sha256-2889d9dc00d180ece647d04f492ac7395d56df1fa83ddd86ac6217ced0cf9b9c"
+        "fileHash": "sha256-b760ec6ab1297dfb7b2f98228a35791ade4fc0c211ecaa96bb185489200ebd4b"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/Joya9.cs3",
@@ -304,7 +325,7 @@
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/MoviesDrive.cs3",
         "status": 1,
-        "version": 18,
+        "version": 19,
         "name": "MoviesDrive",
         "internalName": "MoviesDrive",
         "authors": [
@@ -319,9 +340,9 @@
             "TvSeries",
             "Anime"
         ],
-        "iconUrl": "https://new1.moviesdrive.beer/wp-content/uploads/2026/01/cropped-Gemini_Generated_Image_qt93aqt93aqt93aq-1.png",
+        "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/moviesdrive.png",
         "apiVersion": 1,
-        "fileHash": "sha256-7a072fddc42ea1a47ec089f3176c03946a3c7226e7c727c514fdbb3d20775efe"
+        "fileHash": "sha256-c0db03d1b0c2a9cc151cca2d5e46906bba31363aa2a34aa8d4f0a85af515b4fe"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/MoviesHunt.cs3",
@@ -500,7 +521,7 @@
             "Movie",
             "Anime"
         ],
-        "iconUrl": "https://moviesflixi.com/favicon.ico",
+        "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/tmf.png",
         "apiVersion": 1,
         "fileHash": "sha256-846e8ff9aa5563c54e08b1b69bf9aa6069868ab23d9ef61c975ddda489f1b5ac"
     },
