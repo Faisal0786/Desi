@@ -217,24 +217,23 @@
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/KmMovies.cs3",
         "status": 1,
-        "version": 4,
+        "version": 1,
         "name": "KmMovies",
         "internalName": "KmMovies",
         "authors": [
             "Faisal"
         ],
-        "description": "KMMovies: Download & Stream Free Latest Hindi, English & Dubbed Movies in 480p, 720p, 1080p & 4K \u2013 Formerly Khatrimaza.",
+        "description": "HDHub4u: Download & Stream Latest Bollywood, Hollywood, South Hindi, Hindi Dubbed Movies & Web Series in 480p, 720p, 1080p & 4K \u2014 with direct HubCloud, HubDrive & PlayDrive links.",
         "fileSize": 33791,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
             "Movie",
-            "TvSeries",
-            "Anime"
+            "TvSeries"
         ],
-        "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/kmmovies.png",
+        "iconUrl": "",
         "apiVersion": 1,
-        "fileHash": "sha256-284d74af0a3da6bf37a307d6dbac3d1129b42c7bc97a0c92bdebff1e0b79950a"
+        "fileHash": "sha256-d6f396d4ee10fc97f574cf8b9470aecb1d57ba2eea8b21024c2211c125a104f7"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/MovieBox.cs3",
@@ -424,7 +423,7 @@
             "Faisal"
         ],
         "description": "StreamHub -  Multilingual provider Non-Stop Solution For Streaming Movies/Tv series & Anime ",
-        "fileSize": 1323254,
+        "fileSize": 1320947,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -436,7 +435,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/images%20(1).jpeg",
         "apiVersion": 1,
-        "fileHash": "sha256-e96e773d019c70951ac9fc29f86207b30bb323f63f92d24dacf01ff21e1512a0"
+        "fileHash": "sha256-bb7b9b06a58721d81ca4e98b7f5355e6d260656d2bf96f04a6f3d33ee037e611"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/TamilToon.cs3",
