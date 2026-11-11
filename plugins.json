@@ -22,14 +22,14 @@
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/4khdHub.cs3",
         "status": 1,
-        "version": 3,
+        "version": 4,
         "name": "4khdHub",
         "internalName": "4khdHub",
         "authors": [
             "Faisal"
         ],
         "description": "4khdHub: Download & Stream Latest Bollywood, Hollywood, South Hindi, Hindi Dubbed Movies & Web Series in 4K \u2014",
-        "fileSize": 71815,
+        "fileSize": 70937,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -38,7 +38,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/4khdhub.png",
         "apiVersion": 1,
-        "fileHash": "sha256-6356d7dea129a7b353b337e85ebbe563fc9ab52a131a8b40d8a9cd15f0917515"
+        "fileHash": "sha256-16a7e29a3ab8d8996c88ff2bd202c9f1fef728ce5147a2a1097ba2142387c83c"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/AnimeDubHindi.cs3",
@@ -216,14 +216,14 @@
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/Hdhub4u.cs3",
         "status": 1,
-        "version": 2,
+        "version": 3,
         "name": "Hdhub4u",
         "internalName": "Hdhub4u",
         "authors": [
             "Faisal"
         ],
         "description": "HDHub4u: Download & Stream Latest Bollywood, Hollywood, South Hindi, Hindi Dubbed Movies & Web Series in 480p, 720p, 1080p & 4K \u2014 with direct HubCloud, HubDrive & PlayDrive links.",
-        "fileSize": 59852,
+        "fileSize": 58833,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -232,7 +232,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/hdhub4u.png?utm_source=chatgpt.com\u2060",
         "apiVersion": 1,
-        "fileHash": "sha256-b760ec6ab1297dfb7b2f98228a35791ade4fc0c211ecaa96bb185489200ebd4b"
+        "fileHash": "sha256-cae7890dbeb52aec0c2d81265dbc46b0088f21d88742d487ec1625aec1e61922"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/Joya9.cs3",
