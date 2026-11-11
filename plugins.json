@@ -193,6 +193,27 @@
         "fileHash": "sha256-ceac6f2bead12bf073b5fbcac686628f12386288f5be1dc41e6eec91c1eb589b"
     },
     {
+        "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/Hdhub4u.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "Hdhub4u",
+        "internalName": "Hdhub4u",
+        "authors": [
+            "Faisal"
+        ],
+        "description": "HDHub4u: Download & Stream Latest Bollywood, Hollywood, South Hindi, Hindi Dubbed Movies & Web Series in 480p, 720p, 1080p & 4K \u2014 with direct HubCloud, HubDrive & PlayDrive links.",
+        "fileSize": 53580,
+        "repositoryUrl": "https://github.com/Faisal0786/Desi",
+        "language": "hi",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "",
+        "apiVersion": 1,
+        "fileHash": "sha256-cec0532dac55af095426da466f944666d2b83ff8e0e5a003fe73451c836bfe13"
+    },
+    {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/Joya9.cs3",
         "status": 1,
         "version": 3,
@@ -217,23 +238,24 @@
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/KmMovies.cs3",
         "status": 1,
-        "version": 1,
+        "version": 4,
         "name": "KmMovies",
         "internalName": "KmMovies",
         "authors": [
             "Faisal"
         ],
-        "description": "HDHub4u: Download & Stream Latest Bollywood, Hollywood, South Hindi, Hindi Dubbed Movies & Web Series in 480p, 720p, 1080p & 4K \u2014 with direct HubCloud, HubDrive & PlayDrive links.",
+        "description": "KMMovies: Download & Stream Free Latest Hindi, English & Dubbed Movies in 480p, 720p, 1080p & 4K \u2013 Formerly Khatrimaza.",
         "fileSize": 33791,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
             "Movie",
-            "TvSeries"
+            "TvSeries",
+            "Anime"
         ],
-        "iconUrl": "",
+        "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/kmmovies.png",
         "apiVersion": 1,
-        "fileHash": "sha256-d6f396d4ee10fc97f574cf8b9470aecb1d57ba2eea8b21024c2211c125a104f7"
+        "fileHash": "sha256-284d74af0a3da6bf37a307d6dbac3d1129b42c7bc97a0c92bdebff1e0b79950a"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/MovieBox.cs3",
