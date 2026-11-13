@@ -216,14 +216,14 @@
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/Hdhub4u.cs3",
         "status": 1,
-        "version": 3,
+        "version": 4,
         "name": "Hdhub4u",
         "internalName": "Hdhub4u",
         "authors": [
             "Faisal"
         ],
         "description": "HDHub4u: Download & Stream Latest Bollywood, Hollywood, South Hindi, Hindi Dubbed Movies & Web Series in 480p, 720p, 1080p & 4K \u2014 with direct HubCloud, HubDrive & PlayDrive links.",
-        "fileSize": 58833,
+        "fileSize": 63430,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -232,7 +232,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/hdhub4u.png?utm_source=chatgpt.com\u2060",
         "apiVersion": 1,
-        "fileHash": "sha256-cae7890dbeb52aec0c2d81265dbc46b0088f21d88742d487ec1625aec1e61922"
+        "fileHash": "sha256-010391cc9c347a8b1cbea144fc39a6952fed2bbd264f0e50b36e8a3198d0cc6b"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/Joya9.cs3",
@@ -459,14 +459,14 @@
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/StreamHubOne.cs3",
         "status": 1,
-        "version": 87,
+        "version": 88,
         "name": "StreamHubOne",
         "internalName": "StreamHubOne",
         "authors": [
             "Faisal"
         ],
         "description": "StreamHub -  Multilingual provider Non-Stop Solution For Streaming Movies/Tv series & Anime ",
-        "fileSize": 1349911,
+        "fileSize": 1354743,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -478,7 +478,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/images%20(1).jpeg",
         "apiVersion": 1,
-        "fileHash": "sha256-af5c587f59da867ff1ea34af41482e89997469922275990da3281c1a1703de16"
+        "fileHash": "sha256-b5c4a24186191e2ebbfd4817447ccc4838c3ead82902c8d47faf7e99a7749557"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/TamilToon.cs3",
