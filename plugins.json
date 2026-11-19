@@ -152,14 +152,14 @@
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/Anizone.cs3",
         "status": 1,
-        "version": 3,
+        "version": 4,
         "name": "Anizone",
         "internalName": "Anizone",
         "authors": [
             "Faisal"
         ],
         "description": "Anizone- Multi Language Anime Provider",
-        "fileSize": 33404,
+        "fileSize": 34822,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "en",
         "tvTypes": [
@@ -169,7 +169,7 @@
         ],
         "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://anizone.to&size=256",
         "apiVersion": 1,
-        "fileHash": "sha256-33484614bec52df3e8b577400098b2e6e313c1b520bebd87f5bf50000043ec05"
+        "fileHash": "sha256-6844705532fb0643aaf2ff7e37fc045ae2d287fcf4f79bd255f9c01eff39cf54"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/AryaVidya.cs3",
@@ -506,14 +506,14 @@
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/The Movie Flix.cs3",
         "status": 1,
-        "version": 28,
+        "version": 29,
         "name": "The Movie Flix",
         "internalName": "The Movie Flix",
         "authors": [
             "Faisal"
         ],
         "description": "TheMoviesFlix provider for Dual Audio, Bollywood and Hollywood Movies and TV Shows",
-        "fileSize": 63430,
+        "fileSize": 58313,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -523,7 +523,29 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/tmf.png",
         "apiVersion": 1,
-        "fileHash": "sha256-846e8ff9aa5563c54e08b1b69bf9aa6069868ab23d9ef61c975ddda489f1b5ac"
+        "fileHash": "sha256-d0fb05cf24fd346388a1eccb5479a43c64f8204dddde8c5bdfcc1ec24da978af"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/ToonPlay.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "ToonPlay",
+        "internalName": "ToonPlay",
+        "authors": [
+            "Faisal"
+        ],
+        "description": "ToonPlay :- Hindi Dubbed Anime Provider.",
+        "fileSize": 27228,
+        "repositoryUrl": "https://github.com/Faisal0786/Desi",
+        "language": "hi",
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/toonplay.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-ca3eb99cd3094141ced26ab5f094990a14ad3039fd9d4b8e13f882365092c56b"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/vegamovies.cs3",
@@ -568,5 +590,26 @@
         "iconUrl": "https://watchdrama.app/icon.png?utm_source=chatgpt.com",
         "apiVersion": 1,
         "fileHash": "sha256-ae656085800cacc31ed0c0d47bc8fbd0f710bb498a2f5b63946155d5f2fd6887"
+    },
+    {
+        "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/ZeeFliz4k.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "ZeeFliz4k",
+        "internalName": "ZeeFliz4k",
+        "authors": [
+            "Faisal"
+        ],
+        "description": "ZeeFliz4k: Download & Stream Latest Bollywood, Hollywood, South Hindi, Hindi Dubbed Movies & Web Series in 4K \u2014",
+        "fileSize": 67527,
+        "repositoryUrl": "https://github.com/Faisal0786/Desi",
+        "language": "hi",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/zeefliz4k.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-a246810a43e8fd8d5c904d7d22b7c3bc4b4ac65d7cc0a66d03037c236f09909e"
     }
 ]
