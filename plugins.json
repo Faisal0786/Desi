@@ -543,7 +543,7 @@
             "TvSeries",
             "Anime"
         ],
-        "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/toonplay.png",
+        "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/toonplay.webp",
         "apiVersion": 1,
         "fileHash": "sha256-ca3eb99cd3094141ced26ab5f094990a14ad3039fd9d4b8e13f882365092c56b"
     },
@@ -592,6 +592,27 @@
         "fileHash": "sha256-ae656085800cacc31ed0c0d47bc8fbd0f710bb498a2f5b63946155d5f2fd6887"
     },
     {
+        "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/ZeeFliz.cs3",
+        "status": 1,
+        "version": 1,
+        "name": "ZeeFliz",
+        "internalName": "ZeeFliz",
+        "authors": [
+            "Faisal"
+        ],
+        "description": "ZeeFliz: Download & Stream Latest Bollywood, Hollywood, South Hindi, Hindi Dubbed Movies & Web Series in 480p, 720p, 1080p",
+        "fileSize": 81943,
+        "repositoryUrl": "https://github.com/Faisal0786/Desi",
+        "language": "hi",
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/zeefliz.jpg",
+        "apiVersion": 1,
+        "fileHash": "sha256-cf0f31223e35ad5afdc50bdd9cfd913cb93967ca9f37e4b40569ebab4ebdd3ff"
+    },
+    {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/ZeeFliz4k.cs3",
         "status": 1,
         "version": 1,
@@ -608,7 +629,7 @@
             "Movie",
             "TvSeries"
         ],
-        "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/zeefliz4k.png",
+        "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/zeefliz4k.webp",
         "apiVersion": 1,
         "fileHash": "sha256-a246810a43e8fd8d5c904d7d22b7c3bc4b4ac65d7cc0a66d03037c236f09909e"
     }
