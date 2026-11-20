@@ -442,7 +442,7 @@
             "Faisal"
         ],
         "description": "Multi language Movies and Tv shows provider",
-        "fileSize": 36939,
+        "fileSize": 37014,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -454,7 +454,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/3a33c253fe5e25b4d61a6a8eb78da2a1.webp",
         "apiVersion": 1,
-        "fileHash": "sha256-3da768f13f74df57b6b711febec7e759f53ecfba98af89efcf150eef465f9166"
+        "fileHash": "sha256-42ddc2359d1ef99aa9aa437365acfa075c3ca36d1d79c13553c2a4b6608253db"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/StreamHubOne.cs3",
