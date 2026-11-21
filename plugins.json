@@ -601,7 +601,7 @@
             "Faisal"
         ],
         "description": "ZeeFliz: Download & Stream Latest Bollywood, Hollywood, South Hindi, Hindi Dubbed Movies & Web Series in 480p, 720p, 1080p",
-        "fileSize": 81943,
+        "fileSize": 73702,
         "repositoryUrl": "https://github.com/Faisal0786/Desi",
         "language": "hi",
         "tvTypes": [
@@ -610,7 +610,7 @@
         ],
         "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/zeefliz.jpg",
         "apiVersion": 1,
-        "fileHash": "sha256-cf0f31223e35ad5afdc50bdd9cfd913cb93967ca9f37e4b40569ebab4ebdd3ff"
+        "fileHash": "sha256-6e673d68753f575eed5222ba57fe034f6ade5529375ff56dfdfbd76d964ce10a"
     },
     {
         "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/ZeeFliz4k.cs3",
